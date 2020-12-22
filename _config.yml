@@ -10,3 +10,17 @@ plugins:
 
 repository: LearningToBurn/ltb-theme@v2.0.1
 remote_theme: LearningToBurn/ltb-theme@v2.0.1
+
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+
+
+collections:
+  lessons:
+    output: true
+    sort_by: module_order
