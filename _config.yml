@@ -1,0 +1,12 @@
+title: Fire Learn
+description: Learning site for FIRE!
+exclude: [README.md]
+include: [".well-known"]
+
+# applies pretty for all
+permalink: pretty
+plugins:
+  - jekyll-relative-links
+
+repository: LearningToBurn/ltb-theme@v2.0.0
+remote_theme: LearningToBurn/ltb-theme@v2.0.0
