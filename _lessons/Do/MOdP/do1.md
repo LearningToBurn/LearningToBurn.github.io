@@ -1,8 +1,6 @@
 ---
-title: Test 2
-theme: Check
-module: Fred
-module_order: 2
+title: Do IT!
+module_order: 1
 layout: lesson
 ---
 

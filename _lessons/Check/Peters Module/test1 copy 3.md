@@ -1,8 +1,6 @@
 ---
-title: Do IT!
-theme: Do
-module: Dunno
-module_order: 1
+title: Test 3
+module_order: 3
 layout: lesson
 ---
 
