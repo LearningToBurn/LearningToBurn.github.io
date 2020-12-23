@@ -1,8 +1,7 @@
 ---
-title: Test 2
 module_order: 2
 ---
 
-# My first Lesson!
+# {{page.title}}
 
 blah blah blah

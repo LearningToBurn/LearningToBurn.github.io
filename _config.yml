@@ -8,17 +8,41 @@ permalink: pretty
 plugins:
   - jekyll-relative-links
 
-repository: LearningToBurn/ltb-theme@v2.0.3
-remote_theme: LearningToBurn/ltb-theme@v2.0.3
+repository: LearningToBurn/ltb-theme@v2.0.6
+remote_theme: LearningToBurn/ltb-theme@v2.0.6
 
 
 defaults:
   -
     scope:
-      path: "" # an empty string here means all files in the project
+      path: "_lessons"
     values:
       layout: "lesson"
-
+  -
+    scope:
+      path: "_lessons/Check"
+    values:
+      theme: "Check"
+  -
+    scope:
+      path: "_lessons/Plan"
+    values:
+      theme: "Plan"
+  -
+    scope:
+      path: "_lessons/Prepare"
+    values:
+      theme: "Prepare"
+  -
+    scope:
+      path: "_lessons/Do"
+    values:
+      theme: "Do"  
+  -
+    scope:
+      path: "_lessons/Post-Burn"
+    values:
+      theme: "Post-Burn"  
 
 collections:
   lessons:
