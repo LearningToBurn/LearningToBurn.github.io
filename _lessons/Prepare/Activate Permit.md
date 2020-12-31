@@ -1,7 +1,8 @@
 ---
 module_order: 7
+topic: TODO
+objective: TODO
 ---
 
-# {{page.title}}
 
 blah blah blah

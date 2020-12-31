@@ -1,7 +1,7 @@
 ---
-module_order: 1
+module_order: 999
+topic: TODO
+objective: TODO
 ---
-
-# {{page.title}}
 
 blah blah blah

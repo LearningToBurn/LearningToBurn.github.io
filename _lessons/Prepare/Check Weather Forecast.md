@@ -1,8 +1,9 @@
 ---
 module_order: 9
+topic: TODO
+objective: TODO
 
 ---
 
-# {{page.title}}
 
 blah blah blah
