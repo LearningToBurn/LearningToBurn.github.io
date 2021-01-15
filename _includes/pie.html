@@ -1,0 +1,25 @@
+
+{:id="complete-{{include.theme | slugify }}" class="chart small" alt="{{include.theme}}" }
+&nbsp;
+
+<script>
+  var arc = Math.floor(Math.random() * 100)
+  charts['{{ include.theme }}'] = new roughViz.Donut(
+  {
+    element: '#complete-{{include.theme | slugify }}',
+    data: {
+      labels: ["complete", "unread" ],
+      values: [arc, 100-arc]
+    },
+    title: '{{include.theme}}',
+    strokeWidth: 1,
+    fillWeight: 1,
+    height: 220,
+    width: 300,
+    legend: false,
+    colors: ['green', 'coral'],
+  }
+);
+
+
+</script>
