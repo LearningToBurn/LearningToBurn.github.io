@@ -1,11 +1,13 @@
 ---
 title: Learning to Burn
 description: Learning site for FIRE!
-layout: lesson
+layout: basic
 user_access: anon
 ---
 
-## Get Started!
+# Welcome to the Learning to Burn site
 
-Intro page here
+some intro content
+
+invitation to sign in and begin
 
