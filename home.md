@@ -6,12 +6,8 @@ layout: basic
 
 # Your personal start page
 
-> Continue where you left off: [page] at [time]
+> Continue where you left off: [page](page){:id="lastPage"} at _time_{:id="lastPageAt"}
 
-## Completeness
-{% for theme in site.data.themes %}
-{% include pie.html theme=theme %}
-{% endfor %}
 
 ## Achievements
 
@@ -26,6 +22,10 @@ layout: basic
 - {% include achievement.html name="Completionist" title="All done!  You've read every page on the site"  rank="silver" %}
 {:class="achievements"}
 
+## Completeness
+{% for theme in site.data.themes %}
+{% include pie.html theme=theme %}
+{% endfor %}
 
 ## Make a schedule
 
@@ -43,4 +43,4 @@ Make a schedule and add it to your calendar!
   - [x] Sat
 - Time:
   - [__]
-- [Import Schedule](javascript:makeSchedule($this))
+- [Import Schedule](javascript:alert("Not yet implemented"))

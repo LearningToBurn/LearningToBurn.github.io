@@ -11,6 +11,9 @@ function onLogin(token) {
     visiting.makeVisit(token);
     visiting.loadVisited(token, $("body"));
   }
+  if( window.location.pathname === '/home' || window.location.pathname === '/home/') {
+    loadHomeData(token)
+  }
 }
 function onAnon() {
   if( window.location.pathname !== '/') {
