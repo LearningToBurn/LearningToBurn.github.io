@@ -13,14 +13,13 @@ layout: basic
 
 ### Completed
 
-- {% include achievement.html name="Starter" title="Made a start!  You've read your first page" rank="gold" %}
-{:class="achievements"}
+- {% include achievement.html name="Loading..." title="..." rank="gold" %}
+{:class="achievements" id="ach_completed"}
 
 ### Yet to achieve
 
-- {% include achievement.html name="Prodigal Wanderer" title="You're back!  Return to the site after more than 3 months absence" rank="silver" %}
-- {% include achievement.html name="Completionist" title="All done!  You've read every page on the site"  rank="silver" %}
-{:class="achievements"}
+- {% include achievement.html name="Loading..." title="..." rank="silver" %}
+{:class="achievements" id="ach_notyet"}
 
 ## Completeness
 {% for theme in site.data.themes %}

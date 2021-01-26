@@ -52,7 +52,32 @@ function loadLast(token){
   })
 }
 
+function loadAchievements(token){
+  const api = GetData(token)
+  const updateRow = function(root, line, suffix=""){
+    var row = $(`#ach_${root} li`).first().clone()
+    row.find("img").attr("title", line.description)
+    row.find("i").text(line.name + suffix)
+    $(`#ach_${root}`).append(row)
+  }
+  api("achievements", {}, data =>{
+    data.forEach(line => {
+      if (line.status.case==="NotStarted"){
+        updateRow("notyet", line)
+      }else if(line.status.case==="InProgress"){
+        updateRow("notyet", line, " (in progress)")
+      }else if(line.status.case==="Completed"){
+        updateRow("completed", line)
+      }
+    })
+    $("#ach_completed li").first().remove()
+    $("#ach_notyet li").first().remove()
+  })
+}
+
+
 function loadHomeData(token){
   loadLast(token)
   loadPies(token)
+  loadAchievements(token)
 }
