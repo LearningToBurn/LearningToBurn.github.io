@@ -11,6 +11,10 @@ function onLogin(token) {
     visiting.makeVisit(token);
     visiting.loadVisited(token, $("body"));
   }
+  if(typeof learntrack_quiz !== 'undefined') {
+    learntrack_quiz.api_key = `{{ site.learntrack.api_key }}`
+    learntrack_quiz.userJwt = token
+  }
   if( window.location.pathname === '/home' || window.location.pathname === '/home/') {
     loadHomeData(token)
   }
