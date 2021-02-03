@@ -65,12 +65,13 @@ function loadAchievements(token){
       if (line.status.case==="NotStarted"){
         updateRow("notyet", line)
       }else if(line.status.case==="InProgress"){
-        updateRow("notyet", line, " (in progress)")
+        updateRow("inprogress", line, " (in progress)")
       }else if(line.status.case==="Completed"){
         updateRow("completed", line)
       }
     })
     $("#ach_completed li").first().remove()
+    $("#ach_inprogress li").first().remove()
     $("#ach_notyet li").first().remove()
   })
 }

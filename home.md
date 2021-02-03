@@ -11,14 +11,13 @@ layout: basic
 
 ## Achievements
 
-### Completed
-
 - {% include achievement.html name="Loading..." title="..." rank="gold" %}
 {:class="achievements" id="ach_completed"}
 
-### Yet to achieve
-
 - {% include achievement.html name="Loading..." title="..." rank="silver" %}
+{:class="achievements" id="ach_inprogress"}
+
+- {% include achievement.html name="Loading..." title="..." rank="bronze" %}
 {:class="achievements" id="ach_notyet"}
 
 ## Completeness
