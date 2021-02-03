@@ -8,8 +8,8 @@ permalink: pretty
 plugins:
   - jekyll-relative-links
 
-repository: LearningToBurn/ltb-theme@v2.0.22
-remote_theme: LearningToBurn/ltb-theme@v2.0.22
+repository: LearningToBurn/ltb-theme@v2.0.23
+remote_theme: LearningToBurn/ltb-theme@v2.0.23
 
 learntrack: 
   url: https://learntrack-func.azurewebsites.net
