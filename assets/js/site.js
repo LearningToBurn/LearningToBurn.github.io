@@ -8,6 +8,7 @@ function onLogin(token) {
   }
   if(typeof visiting !== 'undefined') {
     visiting.LTB_API_KEY = `{{ site.learntrack.api_key }}`
+    visiting.onVisit = onVisit;
     visiting.makeVisit(token);
     visiting.loadVisited(token, $("body"));
   }
@@ -27,3 +28,18 @@ function onAnon() {
 }
 googleAuthor.authSuccess = onLogin;
 googleAuthor.authNone = onAnon;
+
+function toast(msg){
+  $('#toast_msg').html(msg)
+  $('.toast').addClass('toasting')
+  window.setTimeout(() => $('.toast').removeClass('toasting'), 3000)
+}
+
+
+function onVisit(data) {
+  data
+    .filter(x => x.case === 'Achievement')
+    .forEach(visit => {
+      toast(`<h3>New Achievement!</h3> <ul class='achievements'><li><img src='{{site.baseurl}}/assets/img/achievements/gold.png'/> ${visit.fields[0]}</li><ul>`)
+    })
+}
