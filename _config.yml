@@ -8,8 +8,9 @@ permalink: pretty
 plugins:
   - jekyll-relative-links
 
-repository: LearningToBurn/ltb-theme@v2.0.24
-remote_theme: LearningToBurn/ltb-theme@v2.0.24
+repository: LearningToBurn/ltb-theme@v2.0.25
+remote_theme: LearningToBurn/ltb-theme@v2.0.25
+
 
 learntrack: 
   url: https://learntrack-func.azurewebsites.net
@@ -22,6 +23,7 @@ defaults:
       path: "_lessons"
     values:
       layout: "lesson"
+      brand: "napkin"
   -
     scope:
       path: "_lessons/Check"
