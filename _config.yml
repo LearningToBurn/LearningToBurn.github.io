@@ -8,8 +8,9 @@ permalink: pretty
 plugins:
   - jekyll-relative-links
 
-repository: LearningToBurn/ltb-theme@v2.0.25
-remote_theme: LearningToBurn/ltb-theme@v2.0.25
+repository: LearningToBurn/ltb-theme@v2.0.26
+remote_theme: LearningToBurn/ltb-theme@v2.0.26
+brand: napkin
 
 
 learntrack: 
@@ -23,7 +24,11 @@ defaults:
       path: "_lessons"
     values:
       layout: "lesson"
-      brand: "napkin"
+  -
+    scope:
+      path: "_lessons"
+    values:
+      layout: "lesson"
   -
     scope:
       path: "_lessons/Check"

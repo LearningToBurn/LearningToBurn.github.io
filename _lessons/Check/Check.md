@@ -16,10 +16,10 @@ The first stage is to check and comply with the legal and administrative require
 
 __Self-Check__: the fire season status and permitting requirements in your region using the [checkitsalright.nz](https://checkitsalright.nz) website.
 
-| __Open__       | During an open season, farmers may light fires in the open air without a permit. They must follow best practice guidelines to ensure safe burning |
-| __Restricted__ | Permits may or may not be required during a restricted season, you need to check |
-| __Prohibited__ | During a total fire ban (or Prohibited season) special permits are always required. Strick guidelines must be adhered to and burning during a total fire ban is not recommended |
-
+| Open       | During an open season, farmers may light fires in the open air without a permit. They must follow best practice guidelines to ensure safe burning |
+| Restricted | Permits may or may not be required during a restricted season, you need to check |
+| Prohibited | During a total fire ban (or Prohibited season) special permits are always required. Strick guidelines must be adhered to and burning during a total fire ban is not recommended |
+{:class="table_with_header_column"}
 
 ### Check with your local and regional councils about any other rules or restrictions.
 
@@ -55,8 +55,9 @@ __Self-Check__: do you know what insurance cover you have for the following:
 | Fencing             | y/n |
 | Shelter belts       | y/n |
 | Public Liability    | y/n |
+{:class="table_with_header_column"}
 
-_Landowners who damage the electrical system during field burns will be billed for repairs. Insurance may cover this cost._
+_NOTE: Landowners who damage the electrical system during field burns will be billed for repairs. Insurance may cover this cost._
 
 Care in planning and executing a burn are your best defence against lawsuits. Have insurance, but do your best to avoid having to use it.
 
@@ -75,4 +76,4 @@ Questions to ask your Insurer:
     1. Harm to my staff
 
 ### Learning Outcome
-> Knowing your responsibilities and liabilities before conducting a prescribed burn
+Knowing your responsibilities and liabilities before conducting a prescribed burn
