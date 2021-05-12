@@ -9,7 +9,7 @@ layout: basic
 > Continue where you left off: [page](page){:id="lastPage"} at _time_{:id="lastPageAt"}
 
 
-## Achievements
+### Achievements
 
 - {% include achievement.html name="Loading..." title="..." rank="gold" %}
 {:class="achievements" id="ach_completed"}
@@ -20,12 +20,12 @@ layout: basic
 - {% include achievement.html name="Loading..." title="..." rank="bronze" %}
 {:class="achievements" id="ach_notyet"}
 
-## Completeness
+### Completeness
 {% for theme in site.data.themes %}
 {% include pie.html theme=theme %}
 {% endfor %}
 
-## Make a schedule
+### Make a schedule
 
 Do you struggle with finding time to read?
 
