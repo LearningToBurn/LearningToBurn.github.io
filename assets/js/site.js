@@ -43,3 +43,9 @@ function onVisit(data) {
       toast(`<h3>New Achievement!</h3> <ul class='achievements'><li><img src='{{site.baseurl}}/assets/img/achievements/gold.png'/> ${visit.fields[0]}</li><ul>`)
     })
 }
+
+$(function(){
+  $('h3').each(function(){
+    $(this).nextUntil('h3').addBack().wrapAll('<section></section>');
+  })
+});
