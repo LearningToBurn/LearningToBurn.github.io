@@ -46,9 +46,12 @@ function loadPies(token){
 function loadLast(token){
   const api = GetData(token)
   api("lastVisited", {}, data =>{
+    dayjs.extend(dayjs_plugin_relativeTime)
     $('#lastPage').text(data.src.replaceAll("+", " "))
     $('#lastPage').attr("href", data.src.replaceAll("+", " "))
-    $('#lastPageAt').text(Date(data.at))
+    $('#lastPageAt').text(
+      dayjs(data.at).fromNow()
+    )
   })
 }
 
@@ -56,7 +59,7 @@ function loadAchievements(token){
   const api = GetData(token)
   const updateRow = function(root, line, suffix=""){
     var row = $(`#ach_${root} li`).first().clone()
-    row.find("img").attr("title", line.description)
+    row.attr("title", line.description)
     row.find("i").text(line.name + suffix)
     $(`#ach_${root}`).append(row)
   }

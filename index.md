@@ -9,5 +9,8 @@ user_access: anon
 
 some intro content
 
-invitation to sign in and begin
+{:data-bg="/assets/img/fire.jpg"}
+### Call to action 
 
+> invitation to sign in and begin  
+> click here!

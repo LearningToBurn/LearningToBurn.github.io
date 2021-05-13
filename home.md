@@ -6,7 +6,7 @@ layout: basic
 
 # Your personal start page
 
-> Continue where you left off: [page](page){:id="lastPage"} at _time_{:id="lastPageAt"}
+> Continue where you left off: [page](page){:id="lastPage"} _time_{:id="lastPageAt"}
 
 
 ### Achievements
