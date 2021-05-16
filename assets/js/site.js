@@ -58,3 +58,61 @@ $(function(){
     $(h3).parent().addClass(h3.classList)
   })
 });
+
+const cal = {
+  weekdays: ['SU', 'MO', 'TU', 'WE', 'TH', 'FR', 'SA'],
+  groupMap: (groupKey, mapKey) => array =>
+    array.reduce((objectsByKeyValue, obj) => {
+      const key = obj[groupKey]
+      const value = obj[mapKey]
+      objectsByKeyValue[key] = (objectsByKeyValue[key] || []).concat(value)
+      return objectsByKeyValue
+    }, 
+  {}),
+
+  showCal: (xx) => {
+    const data = cal.groupMap('name', 'value')(xx)
+    console.log(data)
+    const now = new Date()
+    const start = dayjs().hour(data.timeH[0]).minute(data.timeM[0]).second(0).day(cal.weekdays.indexOf(data.days[0]))
+    const end = start.add(30, 'minute')
+    const ical = (
+      `BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SCION RESEARCH//SCION RESEARCH 0.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+SUMMARY:Learn to Burn!
+UID:IK8WXSUMJ428FKOBU5KS72C4
+SEQUENCE:1
+STATUS:CONFIRMED
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+DTSTART:${start.format("YYYYMMDDTHHmmss")}
+DTSEND:${end.format("YYYYMMDDTHHmmss")}
+DTSTAMP:${dayjs().format("YYYYMMDDTHHmmss")}
+LAST-MODIFIED:${dayjs().format("YYYYMMDDTHHmmss")}
+DESCRIPTION:Learn to burn
+RRULE:FREQ=WEEKLY;BYDAY=${data.days.join(",")}
+LOCATION:
+URL:https://learningtoburn.nz
+END:VEVENT
+END:VCALENDAR`
+    )
+    cal.download("learningtoburn.ics", ical)
+  },
+
+  download: (filename, text) => {
+    var element = document.createElement('a');
+    element.setAttribute('href', 'data:text/calendar;charset=utf-8,' + encodeURIComponent(text));
+    element.setAttribute('download', filename);
+
+    element.style.display = 'none';
+    document.body.appendChild(element);
+
+    element.click();
+
+    document.body.removeChild(element);
+}
+}

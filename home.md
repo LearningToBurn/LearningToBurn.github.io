@@ -31,14 +31,16 @@ Do you struggle with finding time to read?
 
 Make a schedule and add it to your calendar!
 
+{:id="calmaker"}
 - Days:
-  - [x] Sun
-  - [x] Mon
-  - [x] Tue
-  - [x] Wed
-  - [x] Thu
-  - [x] Fri
-  - [x] Sat
+  - <input value="SU" type="checkbox" name="days"/> Sun
+  - <input value="MO" type="checkbox" name="days"/> Mon
+  - <input value="TU" type="checkbox" name="days"/> Tue
+  - <input value="WE" type="checkbox" name="days"/> Wed
+  - <input value="TH" type="checkbox" name="days"/> Thu
+  - <input value="FR" type="checkbox" name="days"/> Fri
+  - <input value="SA" type="checkbox" name="days"/> Sat
 - Time:
-  - [__]
-- [Import Schedule](javascript:alert("Not yet implemented"))
+  - <input name="timeH" min="0" max="23" placeholder="HH" value="12" type="number"/> : <input name="timeM" min="0" max="59"  placeholder="MM" value="00" type="number"/>
+- [Import Schedule](javascript:cal.showCal( $("#calmaker").wrap("<form></form>").parent().serializeArray() ))
+
