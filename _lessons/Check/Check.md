@@ -2,6 +2,7 @@
 module_order: 2
 topic: Burn planning and preparation
 objective: To be aware of any rules or restrictions before you light a match
+brand: scion
 ---
 
 

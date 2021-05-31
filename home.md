@@ -1,7 +1,8 @@
 ---
-title: Learning to Burn
+title: Home
 description: Learning site for FIRE!
 layout: basic
+brand: scion
 ---
 
 # Your personal start page
