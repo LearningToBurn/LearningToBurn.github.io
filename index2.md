@@ -4,10 +4,7 @@ description: Learning site for FIRE!
 layout: basic
 user_access: anon
 brand: scion
-
+background: fireback2.png
 ---
 
-{:data-bg="/assets/img/fire.jpg" class="dark fill-y"}
-# Welcome to the Learning to Burn site
-
-
+![Under construction](assets/img/under-construction.png)

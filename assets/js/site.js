@@ -22,7 +22,7 @@ function onLogin(token) {
   }
 }
 function onAnon() {
-  if( window.location.pathname !== '/') {
+  if( window.location.pathname !== '/' && !document.body.classList.contains('anon')) {
     console.log("Not logged in - going to root")
     window.location = "/"
   }
