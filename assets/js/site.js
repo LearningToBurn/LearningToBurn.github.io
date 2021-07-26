@@ -22,7 +22,8 @@ function onLogin(token) {
   }
 }
 function onAnon() {
-  if( window.location.pathname !== '/' && !document.body.classList.contains('anon')) {
+  const isAnonPage = document.getElementsByClassName('pageBack')[0].classList.contains('ua_anon')
+  if( !isAnonPage) {
     console.log("Not logged in - going to root")
     window.location = "/"
   }
