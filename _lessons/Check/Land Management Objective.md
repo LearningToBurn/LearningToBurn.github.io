@@ -78,7 +78,7 @@ _Self-check: These are important elements that go into a burn plan. If you donâ€
 | Frequency of burn     | Every 3 - 5 years |
 | How to burn           | Aerial ignition with helicopter |
 | Who will be involved  | Me and the wife |
-| Other remarks         | Next to forestry block|
+| Other remarks         | Next to forestry block |
 {:class="table_with_header_column"}
 
 ### Learning outcome: 
