@@ -117,7 +117,7 @@ You should consider using specialist structure fire protection contractors and e
 
 Determine actions that might be required to manage any hazards identified. For example:
 
-| **Identified Hazard (e.g.)  **  | **Action required to manage hazard** |
+| **Identified Hazard (e.g.)**  | **Action required to manage hazard** |
 | House to the east of burn site  | Inform occupants of intention to burn. Leave a buffer to the house. Use a wet line or lighting pattern to control backing fire entering the buffer area. |
 | Fence posts and habitat trees   | Use either a rake hoe or foam around habitat trees and fence posts if required on the day. |
 {:class="table_with_header_column"}
