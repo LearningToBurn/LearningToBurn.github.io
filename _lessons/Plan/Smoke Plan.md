@@ -62,12 +62,15 @@ Traffic control plans could be required when there is a chance of smoke impactin
 6.	Identification of potentially affected parties and sensitive activities - include neighbours living close enough to be affected, Transit New Zealand if the burn is close to a state highway, FENZ if it is likely the public will call to raise concerns about the fire.
 7.	The methods for minimising impacts on people effected
 
+
 _Self-Check: Think about a burn you have conducted in the past; did you consider the above points? Reflect on how these points may have helped assist you with previous burn experiences._
+
+
 
 >__Activity__  Complete a Smoke Management Plan for your planned burn. 
 
-([For Ecan smoke plan, see](https://eplan.ecan.govt.nz/eplan/#Rules/0/234/1/16857))
-([For FAR smoke plan, see](https://www.far.org.nz/articles/67/burning-and-smoke-management-plan-201718))
+([Link for Ecan smoke plan](https://eplan.ecan.govt.nz/eplan/#Rules/0/234/1/16857))
+([Link for FAR smoke plan](https://www.far.org.nz/articles/67/burning-and-smoke-management-plan-201718))
 
 ### Learning outcome: 
 

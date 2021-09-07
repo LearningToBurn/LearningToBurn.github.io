@@ -161,3 +161,6 @@ _Q. What are some possible action that may reduce the level of risk from a fire 
 _Q. Why is it important to check the boundaries before burning?_
 
 _Q. Why is it important to considering neighbouring lands other than the area being burnt?_
+
+### Learning outcome:
+Know why it is important to identify hazards, and how to mitigate damage to assets.
