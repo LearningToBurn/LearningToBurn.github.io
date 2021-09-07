@@ -70,6 +70,7 @@ _Self-check: These are important elements that go into a burn plan. If you donâ€
 > * who will be involved
 
 #### Example:
+
 | Purpose               | Improve grazing |
 | Type of burn          | Large land clearance tussock burn |
 | Size of burn          | 80 hectares |
