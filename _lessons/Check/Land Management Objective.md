@@ -69,15 +69,15 @@ _Self-check: These are important elements that go into a burn plan. If you donâ€
 > * how you will do the burn
 > * who will be involved
 
-### Example:
-| Purpose     | Improve grazing |
-| Type of burn   | Large land clearance tussock burn |
-| Size of burn    | 80 hectares |
-| Time of burn   | Spring |
+#### Example:
+| Purpose               | Improve grazing |
+| Type of burn          | Large land clearance tussock burn |
+| Size of burn          | 80 hectares |
+| Time of burn          | Spring |
 | Frequency of burn     | Every 3 - 5 years |
-| How to burn   | Aerial ignition with helicopter |
-| Who will be involved   | Me and the wife |
-| Other remarks  | Next to forestry block|
+| How to burn           | Aerial ignition with helicopter |
+| Who will be involved  | Me and the wife |
+| Other remarks         | Next to forestry block|
 {:class="table_with_header_column"}
 
 ### Learning outcome: 
