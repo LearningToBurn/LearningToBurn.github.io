@@ -45,8 +45,11 @@ To anticipate the arrival of suitable burning conditions, its important to:  ~(c
 _Self Check:_
 
 _Qu. Has the burn plan been approved?_
+
 _Qu. Will the burn plan allow you to meet the objectives of your burn?_
+
 _Qu. Will the burn plan result in a safe operation (staff and reducing escapes)?_
+
 
 >__Activity:__ Reviewing the following two burn plans, make an assessment on whether they contain all the elements.  Compare between the two plans. Which one is poorly written, and what does it need to improve it.
 
