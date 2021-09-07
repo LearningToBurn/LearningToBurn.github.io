@@ -117,9 +117,8 @@ You should consider using specialist structure fire protection contractors and e
 
 Determine actions that might be required to manage any hazards identified. For example:
 
-    | **Identified Hazard (e.g.)**  | **Action required to manage hazard** |
-    | House to the east of burn site  | Inform occupants of intention to burn. Leave a buffer to the house. Use a wet line or lighting pattern to control backing fire entering the buffer area. |
-    | Fence posts and habitat trees   | Use either a rake hoe or foam around habitat trees and fence posts if required on the day. |
+    | **Identified Hazard (e.g.)**  | House to the east of burn site | Fence posts and habitat trees |
+    | **Action required to manage hazard**  | Inform occupants of intention to burn. Leave a buffer to the house. Use a wet line or lighting pattern to control backing fire entering the buffer area. | Use either a rake hoe or foam around habitat trees and fence posts if required on the day. |
     {:class="table_with_header_column"}
 
 Burning in appropriate conditions is the key strategy for ensuring built assets are protected. There are a range of strategies available for protecting ecological values such as planning ignition to back fire away from fire-sensitive areas, raking around habitat features, rake-hoe lines or wet lines, erosion control measures.
