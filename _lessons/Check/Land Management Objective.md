@@ -5,7 +5,7 @@ objective: To develop you own burn objectives for your land
 brand: scion
 user_access: anon
 ---
-## Reasons for using fire
+### Reasons for using fire
 
 Prescribed burning is used to achieve several land management objectives. Land managers use fire for many reasons, for example: 
 * Removing invasive weeds and scrub
@@ -18,12 +18,13 @@ Prescribed burning is used to achieve several land management objectives. Land m
 _Self-check: What are you trying to achieve from a prescribed burn?_
 
 
-## Do I need to burn?
+
+### Do I need to burn?
 
 Fire is only one tool in an overall management plan. The decision to burn should consider 
 the long-term objectives of your land.  
 
-### Land management objective check:
+#### Land management objective check:
 * What are you trying to achieve?
 * Is fire the best tool for this?
   * What other options could be applied besides burning?
@@ -46,7 +47,7 @@ The following parameters can be applied for use in determining burning rotations
 
 Different areas of your land may suit different rotations –e.g. if growth rates, vegetation types or management objectives vary. Again, this is an area where the knowledge and experience of local landowners should apply, in addition to general guidelines regarding burning rotations. 
 
-## What are your burn objectives?
+### What are your burn objectives?
 
 Once the decision has been made that you need fire, the objectives must be developed. Prescribed burn objectives must be clear and understood by everyone involved. Some questions to think about are:
 
