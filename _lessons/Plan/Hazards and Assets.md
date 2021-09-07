@@ -7,8 +7,12 @@ user_access: anon
 ---
 ### Hazards and Assets
 
+There are three aspects to consider
+
 >**Risk**      Risk has two elements, i.e. the likelihood of something happening and the consequences if it happens
+
 >**Asset**     Anything valued by people which includes houses, crops, stock, fencing, forests and, in many cases, the environment.
+
 >**Hazard**    Any situation with the potential for harm to persons or damage to resources and assets. This includes the fire environment (fuel types, weather, topography and ignition sources)
 
 When assessing fire risk, it’s actually the small stuff that causes most concern.

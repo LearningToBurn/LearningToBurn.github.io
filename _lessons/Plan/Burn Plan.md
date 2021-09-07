@@ -12,8 +12,8 @@ Once it has been decided that burning is warranted, careful planning, including 
 ### What is a Burn Plan?
 
 The burn plan details what, where and when you are burning as well as the mitigations that are in place to help prevent fire escapes.  A burn plan describes the following:
-* the objectives of the burn and the expected results.
-* the area, including vegetation, assets and values. Include how these will be protected. The burn plan needs to identify whether there are values/assets vulnerable to smoke and consider desirable weather patterns for directing fire and smoke away from valuable assets and weather contributing to poor smoke dispersal
+* The objectives of the burn and the expected results.
+* The area, including vegetation, assets and values. Include how these will be protected. The burn plan needs to identify whether there are values/assets vulnerable to smoke and consider desirable weather patterns for directing fire and smoke away from valuable assets and weather contributing to poor smoke dispersal
 * The burn plan specifies, either in words or by a map, the parcel of land to be burned, the landowner(s), and owners of adjacent land not included in the burn.
 * The burn plan specifies the required governmental permits and lists those who must be notified on the day the burn is to take place. 
 * The locations and characteristics of all fire breaks (fire control lines) are given, as well as strategies for containment of fire within the burn unit. 
@@ -33,17 +33,17 @@ The burn plan details what, where and when you are burning as well as the mitiga
 
 ### Why do you need one?
 
-A burnt plan identifies both environmental and safety impacts and tries to mitigate these adverse outcomes from a burn off (see figure below).   A well-written prescribed burning plan accomplishes several positive things: 
-    * it forces us to thoroughly plan a burn; 
-    * it forces us to understand and define the conditions when fire can accomplish our goals;
-    * it forces us to understand and define the conditions when it is NOT safe to burn; 
-    * it makes us prepare contingencies for problematic situations that might develop; 
-    * it helps us recognize our knowledge, equipment and preparation limitations for a prescribed burn; and 
-    * it helps minimize our liability when we adhere to the plan because it demonstrates farmers are knowledgeable about fire and do not negligently apply this tool.
+A burn plan identifies both environmental and safety impacts and tries to mitigate these adverse outcomes from a burn off (see figure below).   A well-written prescribed burning plan accomplishes several positive things: 
+* it forces us to thoroughly plan a burn; 
+* it forces us to understand and define the conditions when fire can accomplish our goals;
+* it forces us to understand and define the conditions when it is NOT safe to burn; 
+* it makes us prepare contingencies for problematic situations that might develop; 
+* it helps us recognize our knowledge, equipment and preparation limitations for a prescribed burn; and 
+* it helps minimize our liability when we adhere to the plan because it demonstrates farmers are knowledgeable about fire and do not negligently apply this tool.
 
 ~ INSERT IMAGE
 
->If you have a burn plan, it does not absolve you from responsibilities if you have no conduced a burn in a safe manor. You can still be prosecuted if the fire is not conducted in a safe manor and you have not taken adequate measure to protect your staff, livestock or the public from the effects of your burn off.
+>**If you have a burn plan, it does not absolve you from responsibilities if you have not conducted a burn in a safe manner. You can still be prosecuted if the fire is not conducted in a safe manner and you have not taken adequate measures to protect your staff, livestock or the public from the effects of your burn off.**
 
 ### How to complete a Burn Plan?
 
