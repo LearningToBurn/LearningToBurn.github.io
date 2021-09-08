@@ -6,9 +6,9 @@ brand: scion
 user_access: anon
 ---
 
-### Notify
+## Notify
 
-## Why you need to notify
+### Why you need to notify
 
 So that:
 * people can take precautions and adequately prepare for any potential impacts of smoke and fire. 
@@ -19,7 +19,7 @@ The smoke from larger burn offs can reduce visibility, in a similar manner to fo
 * In some instances, roads have been closed due to the low visibility caused by the smoke. Where driving visibility is reduced due to smoke, the largest risk to motorists appears to be the potential for rear ending vehicles in front that have slowed their speed or stopped due to smoke presence. 
 
 > Activity:  read about the following examples on where smoke has caused public impacts
-Click to view an example of where smoke from a burn-off caused traffic accident: (Crash on SH2 in the Hawkes Bay believed to be caused by smoke from burnoff] (https://www.stuff.co.nz/dominion-post/news/hawkes-bay/125359513/crash-on-state-highway-2-in-tne-hawkes-bay-believed-to-be-caused-by-smoke-from-burnoff)) 
+Click to view an example of where smoke from a burn-off caused traffic accident: ([Crash on SH2 in the Hawkes Bay believed to be caused by smoke from burnoff](https://www.stuff.co.nz/dominion-post/news/hawkes-bay/125359513/crash-on-state-highway-2-in-tne-hawkes-bay-believed-to-be-caused-by-smoke-from-burnoff))
 
 ### Who you need to notify
 
@@ -52,7 +52,7 @@ Contact details for your local Fire and Emergency office are available on the ([
 
 > __Activity__
 Read the following news article, why where people alarmed about this fire?
- [https://www.stuff.co.nz/national/86787640/large-fire-at-okere-falls-controlled-burnoff] 
+([https://www.stuff.co.nz/national/86787640/large-fire-at-okere-falls-controlled-burnoff](https://www.stuff.co.nz/national/86787640/large-fire-at-okere-falls-controlled-burnoff)) 
 
 ### What sorts of information a notification should include
 
@@ -101,8 +101,8 @@ _Self Check: think back to a burn you conducted, did you have any issues with sm
 
 >___Activity: Doing it right!__
 Read the following news articles:
-([Article 1] (https://www.stuff.co.nz/nelson-mail/news/115522698/holy-smoke-another-big-burnoff-catches-public-attention))
-([Article 2] (https://www.stuff.co.nz/nelson-mail/news/115441012/wairau-valley-fire-no-cause-for-alarm-says-fenz?rm=a))
+([Article 1](https://www.stuff.co.nz/nelson-mail/news/115522698/holy-smoke-another-big-burnoff-catches-public-attention))
+([Article 2](https://www.stuff.co.nz/nelson-mail/news/115441012/wairau-valley-fire-no-cause-for-alarm-says-fenz?rm=a))
 * What actions has the farmer taken to notify of this burn?
 
 ### Learning outcomes: 
