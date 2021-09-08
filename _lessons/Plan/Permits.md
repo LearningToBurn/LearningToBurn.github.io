@@ -1,5 +1,5 @@
 ---
-module_order: 4
+module_order: 7
 topic: TODO
 objective: TODO
 ---
