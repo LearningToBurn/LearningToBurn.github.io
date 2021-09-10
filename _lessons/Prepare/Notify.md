@@ -6,8 +6,6 @@ brand: scion
 user_access: anon
 ---
 
-## Notify
-
 ### Why you need to notify
 
 So that:
