@@ -25,7 +25,7 @@ Abrupt changes in weather predicted for the days following the burn (abrupt chan
 
 **ALWAYS  CHECK WEATHER BEFORE BURNING, IF IN DOUBT, DO NOT BURN**
 
-## When to Burn
+### When to Burn
 
 A general understanding of the separate and combined effects of several weather, vegetation and terrain factors on fire behaviour and fuel condition is essential to plan and execute a good prescribed burn. 
 
@@ -35,7 +35,7 @@ Only burn when weather and fuel conditions permit safe containment of fire and m
 
  Based on these constraints, aim to conduct burning in a safe and controlled manner likely to minimise the risk and nuisance o operatives and other people, and in a manner that does not harm the productivity of the land being burnt
 
-## Weather Conditions
+### Weather Conditions
 
 | **Element**             | **Description** |
 | Air Temperature | Air temperature will affect the dryness of the fuels through its influence on relative humidity. The dryness of fuels will be reflected in the intensity of the fire (how hot it will burn). Fuels in a warm environment are pre-heated by the air temperature and the sunlight, drying it out and making ignition easier.Ambient air temperature is measured in °C. |
