@@ -5,6 +5,7 @@ objective: What is a Smoke Management Plan and why do you need one?
 brand: scion
 user_access: anon
 ---
+
 ### What is a Smoke Management Plan?
 
 Outdoor burning can be a nuisance for neighbors and add to air pollution caused by other sources (such as home heating). No matter what the fire season is, you still need to comply with any council bylaws and regional council requirements relating to smoke nuisance and discharges to the air even if you are issued with a fire permit for FENZ. 
