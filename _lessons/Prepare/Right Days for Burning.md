@@ -17,7 +17,8 @@ Generally, it is necessary to take advantage of suitable weather as it occurs, a
 
 ~Insert Image~
 
-## Time of day
+
+### Time of day
 
 Timing of the burn is the most critical element for obtaining the desire results from the burn. This depends on your burn objectives, if you want a low intensity fire or a fierce quick burning fire.  If possible, plan prescribed burn operation¬¬ so that the entire job can be completed within a standard workday.
 
@@ -97,6 +98,6 @@ _Self-check:_
 _*what are the typical weather patterns at your location during the season you want to burn?_
 _*When might be a good time of the day for you to burn to meet your burn objectives and the likely weather conditions?_
 
-## Learning outcome: 
+### Learning outcome: 
 
 Knowing what your typical weather conditions are like in your area and the appropriate times of the day to conduct your burn.
