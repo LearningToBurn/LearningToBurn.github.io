@@ -33,7 +33,7 @@ In the lead up to and on the day of the burn, there are several tasks that must 
 * Have a contingency plan in case things don’t go as planned.
 	
 	
-**1 Months prior to burn**
+**1 Month prior to burn**
 * Clear any vegetation around access points for vehicle entry to burn area
 	
 
@@ -78,7 +78,9 @@ In the lead up to and on the day of the burn, there are several tasks that must 
 * Check your pile in the days and weeks following burning to ensure it is cold in the centre. Turn the pile and, if possible, apply water to cool it down.
 
 
-_**Strong winds can fan a fire back into life and shift embers, creating unwanted fires. Piles of burnt vegetation can hold heat for months after burning.**_
+    _**Strong winds can fan a fire back into life and shift embers, creating unwanted fires. Piles of burnt vegetation can hold heat for months after burning.**_
+
+
 
 
 
@@ -88,6 +90,8 @@ _**Strong winds can fan a fire back into life and shift embers, creating unwante
 
 
 
-## Learning outcome: 
+
+
+### Learning outcome: 
 
 What are the critical aspects required before, during and after you light a fire
