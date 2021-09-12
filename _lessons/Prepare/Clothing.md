@@ -88,8 +88,8 @@ Other optional items can include:
 * 	No leaked fuel on the clothing
 
 _Self check_
-_* What clothing do you normally wear when conducting a burn-off?_
-_* Is the clothing suitable for the burn you will be undertaking?_
+* _What clothing do you normally wear when conducting a burn-off?_
+* _Is the clothing suitable for the burn you will be undertaking?_
 
 >__Activity:__  check the condition of your protective clothing and identify any items needing to be replaced or repaired prior to the burn.
 
