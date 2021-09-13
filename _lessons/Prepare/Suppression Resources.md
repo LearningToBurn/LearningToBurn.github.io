@@ -1,5 +1,5 @@
 ---
-module_order: 12
+module_order: 13
 topic: Resources
 objective: To know the appropriate suppression resources to have on hand in case of a fire escape.
 brand: scion
