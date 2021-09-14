@@ -2,6 +2,7 @@
 module_order: 16
 topic: Safety
 objective: To provide an overview of the need for safe practices and to understand the role and responsibility for safety throughout the burn, as the burn supervisor.
+brand: scion
 user_access: anon
 ---
 
