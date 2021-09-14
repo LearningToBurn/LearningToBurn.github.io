@@ -118,21 +118,21 @@ _Injury_
 _Hazards_
 *	Establish safe workarounds or mitigation steps to account for hazards
 
->>                                   **Do not work alone.**
+> **Do not work alone.**
 
 **Everyone should work as a cohesive unit and must not be out of contact during any stages of the burn. It is recommended to be within eye and verbal communication with others at all times.**
 
 ### Safety Precautions are critical.
 
-    * Know who is in charge
-    * Have the correct PPE
-    * Keep in contact with the crew
-    * Know where the fire is
-    * Stay in a safe area (road; burned- out area; firebreak)
-    * Stay away from unburnt fuels
-    * Have an escape route
-    * Be Alert
-    * Watch for changes in weather
+* Know who is in charge
+* Have the correct PPE
+* Keep in contact with the crew
+* Know where the fire is
+* Stay in a safe area (road; burned- out area; firebreak)
+* Stay away from unburnt fuels
+* Have an escape route
+* Be Alert
+*  * Watch for changes in weather
 
 >__Activity:__  Identifying safety precautions at burn site
 Look at a topographical map of your proposed burn area. Use the map to identify waterpoints, values and assets that need protecting, proposed control lines, safety zones, neighbours and prominent winds. 
