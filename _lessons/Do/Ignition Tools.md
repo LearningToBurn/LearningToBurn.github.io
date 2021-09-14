@@ -38,7 +38,7 @@ In planning a low intensity prescribed burn, choice of ignition tools will be la
 *	Sometimes when using drip torches with multiple staff, there is a temptation to over-light an area.  Monitor your staff and reinforce the burn plan if things are getting out of control. 
 *	Give the vegetation a chance to catch, promoting low and slow burning.
 
-> __Activity:__ Proper techniques to adjust and utilize a drip torch on a prescribed burn:  https://www.youtube.com/watch?v=3iyCFmrjuIE
+> __Activity:__ Proper techniques to adjust and utilize a drip torch on a prescribed burn: `{% raw %} {% include youtube id="3iyCFmrjuIE" width="60" %} {% endraw %}`  -> {% include youtube id="3iyCFmrjuIE" width="60" %}
 
 **Fuel mix**
 *	Hand-held drip torches are usually fuelled by a 3:1 or 4:1 or 5:1 mix of diesel and petrol.
@@ -51,7 +51,7 @@ In planning a low intensity prescribed burn, choice of ignition tools will be la
 *	The diesel provides a longer burning material that “sticks” to the material intended to be burned, providing the heat to keep the fire lit until the fuel begins to burn, while the petrol provides the rapid combustion to help the diesel fuel burn.
 *	 Fuel delivery rate is adjusted with an air supply valve screw, which can be turned slightly to increase or decrease the drip rate.
 
-> __Activity:__ read the short article ([Who Mixed the Fuel}(https://wildfirelessons.wordpress.com/2017/03/14/who-mixed-the-fuel/)) Think about suitable torch mix ratios for your burn.
+> __Activity:__ read the short article ([Who Mixed the Fuel](https://wildfirelessons.wordpress.com/2017/03/14/who-mixed-the-fuel/)) Think about suitable torch mix ratios for your burn.
 
 **Fuelling/refuelling**
 *	Never fuel/refuel around someone who is smoking
@@ -89,11 +89,14 @@ Keep a spare burner handy for quick replacement to minimise the delay in maintai
 *	Lack of speed in lighting up. At certain stages of the burn, speed is essential and can be achieves without falling into the errors of the two points above.
 
 
-> __Activity:__ Watch the YouTube video on Mmaintenanceaintenance and in the field management for drip torch performance issues https://www.youtube.com/watch?v=uhDvtvQESlACAUTION
+> __Activity:__ Watch the YouTube video on Mmaintenanceaintenance and in the field management for drip torch performance issues:
+
+`{% raw %} {% include youtube id="uhDvtvQESlACAUTION" width="60" %} {% endraw %}`  -> {% include youtube id="uhDvtvQESlACAUTION" width="60" %}
+
 *	Lower leg injuries can occur due to dripping fuels igniting, mostly from a leaking drip torch.
 *	Check your clothing for the ‘telltale signs’ of patches on the lower legs of clothing where the oily drips have stained the material.
 
-Refer: https://wildfirelessons.wordpress.com/2017/02/16/drip-torch-leg-burns/
+Refer ([Link](https://wildfirelessons.wordpress.com/2017/02/16/drip-torch-leg-burns/))
 
 ### Home-made hand burners
 The standard ignition tool used is a petrol/diesel-soaked rag inside an old tin can on the end of a meter-long wire (like a wand). An old teapot with a ceramic handle and a wick in the spout is an alternate option.
