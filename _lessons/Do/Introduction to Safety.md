@@ -50,32 +50,32 @@ In a PCBU (Person conducting a business unit), it is the land manager’s respon
 **Briefing**
 A good briefing to all personnel helps avoid accidents. The briefing (tailgate) should cover:
 relevant details of the burn plan, including the light-up pattern. Meet with all staff before the burn begins to ensure everyone knows:
-•	what is required from the crew
-•	the key safety messages 
+*	what is required from the crew
+*	the key safety messages 
 
 At the tailgate meeting, outline on an operational map the proposed burn area. This needs to have sufficient detail so personnel can navigate their paths and operate during the burn. Depending on the size of the burn, consider walking or driving around the perimeter of the burn area, pointing out situational hazards of the terrain and vegetation. Make known the escape routes and the safe zones as you travel, and where the lookout will be located in relation to the area. 
 
 Following the briefing, all personnel should be aware of:
-•	what their primary task is and the overall objective in conducting the burn
-•	the burn plan elements, light up plan and sequence of ignition
-•	communication devices and how to alert other staff of danger or signal for help
-•	communication signals, and where there are communication blackout zones
-•	familiarisation with equipment
-•	PPE requirements (check also that no-one is wearing synthetics or unsuitable clothing)
-•	safety zones and escape routes
-•	exit points, and any areas of potential danger or difficulty
-•	tracks (and which ones have dead ends)
-•	situational hazards
-•	water points
-•	location of the lookout 
+*	what their primary task is and the overall objective in conducting the burn
+*	the burn plan elements, light up plan and sequence of ignition
+*	communication devices and how to alert other staff of danger or signal for help
+*	communication signals, and where there are communication blackout zones
+*	familiarisation with equipment
+*	PPE requirements (check also that no-one is wearing synthetics or unsuitable clothing)
+*	safety zones and escape routes
+*	exit points, and any areas of potential danger or difficulty
+*	tracks (and which ones have dead ends)
+*	situational hazards
+*	water points
+*	location of the lookout 
  
 **Final site safety check**
 After the operational briefing, staff should move to the assembly area. A final site safety check needs to be conducted by the burn supervisor prior to lighting the match, to ensure:
-•	All access paths are clear (check for fallen trees, slips , obstacles on track etc)
-•	The burn site is safe for crew to operate in
-•	The weather conditions for next 4-6 hours are still conducive to safe burning
-•	All staff feel adequately prepared and briefed for the task 
-•	The pre-burn checklist is completed, and all systems are GO
+*	All access paths are clear (check for fallen trees, slips , obstacles on track etc)
+*	The burn site is safe for crew to operate in
+*	The weather conditions for next 4-6 hours are still conducive to safe burning
+*	All staff feel adequately prepared and briefed for the task 
+*	The pre-burn checklist is completed, and all systems are GO
 
 **Restrict access**
 Anyone not involved with the burn must not be allowed within the planned burn area, as well as the surrounding area. Restrict access at locations accessible by the public
@@ -100,5 +100,47 @@ It’s essential to communicate any changes to the fire to all personnel on site
 Ensure staff have handheld suppression tools nearby at all times in case of spot fires. A shovel or wet sack is useful for small breakouts. This allows personnel to be able to respond quickly to breakouts and spot fires as they arise, mitigating the likelihood of larger escape fires developing.
 
 Ensure all personnel are dressed in PPE before deployment into the burn area
+
+### Contingencies
+
+While the risk of the burn escaping is a key risk that must be taken into consideration, effective planning and burn preparations also need to consider other potential outcomes where contingency plans may need to be planned for, such as: 
+
+_Equipment breakdown_
+*	Plan the burn to incorporate more than just the bare minimum of resources. 
+*	Include spare equipment or standby equipment in case of breakdown or failure
+
+_Injury_
+*	Check first aid equipment is adequate to treat potential injuries
+*	Include the ambulance service and nearest medical centre in notification checklist
+*	Specify rescue helicopter, ambulance and medevac routes and checkpoints on operational map in the burn plan and tailgate meeting.
+*	Plan and  communicate which roles can be recalled to assist with an injury, and which must be maintained to ensure burn security.
+
+_Hazards_
+*	Establish safe workarounds or mitigation steps to account for hazards
+
+>>>>**Do not work alone.**
+
+**Everyone should work as a cohesive unit and must not be out of contact during any stages of the burn. It is recommended to be within eye and verbal communication with others at all times.**
+
+### Safety Precautions are critical.
+
+    * Know who is in charge
+    * Have the correct PPE
+    * Keep in contact with the crew
+    * Know where the fire is
+    * Stay in a safe area (road; burned- out area; firebreak)
+    * Stay away from unburnt fuels
+    * Have an escape route
+    * Be Alert
+    * Watch for changes in weather
+
+>__Activity:__  Identifying safety precautions at burn site
+Look at a topographical map of your proposed burn area. Use the map to identify waterpoints, values and assets that need protecting, proposed control lines, safety zones, neighbours and prominent winds. 
+* What safety precautions can you take to make the burn site safer due to these hazards?
+* Using the map as a reference, how could you make staff aware of hazards, tracks, water points, and safety zones?
+
+### Learning outcome: 
+
+Know the safety responsibilities of a burn supervisor, and understand necessary standard safety precautions to keep yourself and staff safe.
 
 
