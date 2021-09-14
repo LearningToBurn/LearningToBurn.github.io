@@ -8,9 +8,9 @@ user_access: anon
 
 ### Types of ignition tools
 
-**Selection of ignition tool**
-
 A wide range of ignition tools is available to the land manager. Careful selection of the most appropriate ignition tool will increase the probability of achieving the prescribed burning objectives. 
+
+**Selection of ignition tool**
 
 The selection of the most appropriate method will depend on the fuel, weather, topography, machine and equipment availability, human and financial resources and the management objectives of the prescribed burn.
 
@@ -21,7 +21,7 @@ In planning a low intensity prescribed burn, choice of ignition tools will be la
 *	Aerial ignition is of greatest value where large areas or a large number of areas have to be burned in a day, where access is difficult or unsafe, or where there is a narrow window of opportunity for burning within the prescription limits.
 
 
-### 1. Matches
+### Matches
 
 *	Matches are cheap and easy to use but need to be kept very dry. 
 *	However, matches only suit small burn areas and fuels which are quite dry and will ignite easily.
@@ -29,7 +29,7 @@ In planning a low intensity prescribed burn, choice of ignition tools will be la
 *	Consider using windproof and waterproof matches. Typically, these are longer than a normal match, and have a wax-coated match-head that extends two-thirds the way down the length of the stick. (or you can dip the match head in nail polish to make it waterproof).
 *	For safety reasons, do not carry the box in your pockets.
 
-### 2. Hand-held drip torches
+### Hand-held drip torches
 
 *	Drip torches have a simple design with low maintenance requirements and come in a variety of shapes and sizes. 
 *	Hand-held drip torches can effectively ignite relatively damp fuels. 
@@ -89,28 +89,27 @@ Keep a spare burner handy for quick replacement to minimise the delay in maintai
 *	Lack of speed in lighting up. At certain stages of the burn, speed is essential and can be achieves without falling into the errors of the two points above.
 
 
-
 > __Activity:__ Watch the YouTube video on Mmaintenanceaintenance and in the field management for drip torch performance issues https://www.youtube.com/watch?v=uhDvtvQESlACAUTION
 *	Lower leg injuries can occur due to dripping fuels igniting, mostly from a leaking drip torch.
 *	Check your clothing for the ‘telltale signs’ of patches on the lower legs of clothing where the oily drips have stained the material.
 
 Refer: https://wildfirelessons.wordpress.com/2017/02/16/drip-torch-leg-burns/
 
-**Home-made hand burners**
+### Home-made hand burners
 The standard ignition tool used is a petrol/diesel-soaked rag inside an old tin can on the end of a meter-long wire (like a wand). An old teapot with a ceramic handle and a wick in the spout is an alternate option.
 *	This is seen as more reliable (and cheaper and less hassle) than using matches to ensure the vegetation will catch and allows the placement of the torch in under areas where fine dry fuel is present. 
 *	It is easier to light up as you walk along this way. 
 *	This tool also does not involve liquid or dripping fuel. 
 
 
-**Grassburner gas torch**
+### Grassburner gas torch
 This is a small handheld gas torch, with spare canisters. The torch has a trigger to ignite, which unlike the tin can allows one to extinguish the lighting tool when not required.
 
 
-**Rake or pitchfork**
+### Rake or pitchfork
 A heavy rake is an effective ignition device, as it can be used to pull / spread burning materials. A pitchfork can be used to lift burning material and ignite unburnt fuel.
 
-### 3. Flame throwers/propane burners
+### Flame throwers/propane burners
 Flamethrowers are less commonly used. They usually have a backpack arrangement with about 20 litres of fuel mix connected to a hand wand and incorporating a hand pump. 
 
 >_**CAUTION**_
@@ -127,7 +126,7 @@ The **knapsack type burner** is prone to breakdown and leakages which is a sourc
 *	Compared to drip torches, they are heavy, expensive to use per metre ignited, and hold relatively a small amount of fuel. It would take several tanks to light a typical prescribed burn. 
 *	Flame throwers have many of the same disadvantages as propane burners.
 
-### 4. Aerial ignition
+### Aerial ignition
 
 While aerial ignition is a more expensive option, it reduces the time needed for an area to burn out. Aerial ignition involves dropping burning fuel from a helicopter, and is useful when burning dense vegetation in difficult terrain where walking on foot is unsafe. It is useful as an ignition tool also when trying to cover a large area.
 
