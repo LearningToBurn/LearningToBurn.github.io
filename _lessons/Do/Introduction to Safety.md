@@ -132,7 +132,7 @@ _Hazards_
 * Stay away from unburnt fuels
 * Have an escape route
 * Be Alert
-*  * Watch for changes in weather
+* Watch for changes in weather
 
 >__Activity:__  Identifying safety precautions at burn site
 Look at a topographical map of your proposed burn area. Use the map to identify waterpoints, values and assets that need protecting, proposed control lines, safety zones, neighbours and prominent winds. 
