@@ -5,6 +5,7 @@ objective: To know the appropriate suppression resources to have on hand in case
 brand: scion
 user_access: anon
 ---
+
 ### If a fire escapes
 
 Having appropriate fire suppression resources on hand, enables a quick response to a fire escape, increasing the chances of suppressing the fire in its early stages. As the fire progresses, the risk of fire behaviour escalating and/or changing increases.
