@@ -81,3 +81,23 @@ Anyone not involved with the burn must not be allowed within the planned burn ar
 
 **Post-burn monitoring**
 Site supervision includes post burning supervision for a number of hours after operations have ceased, to ensure that all fires are fully extinguished and do not pose a risk of re-flare and wildfire outbreak.
+
+### Resources
+
+**Nutrition and hydration**
+Prescribed burning is physically demanding and adequate refreshments and rest breaks must be catered for. Operatives should be issued with clean drinking water and drink regularly to avoid dehydration. Alcoholic beverages should not be consumed prior to or during the burning operation.
+
+**Communication**
+Too often, communication is a last consideration. Communication is critical to swift and effective action when things do go wrong and personnel need help.
+_THINK – It could be YOU that is injured._
+
+Good communications are vital to coordinating a burn operation. Radio or mobile phone communications should be available to all members of the burn team. Check before burning that communication devices are all in working order. Remind staff to take handheld radios with them and have these on hand, and not leave them on the farm vehicle. Consider also that cellphone coverage may not be present at all times, and a backup method (radio or hand signal) is also needed. Communication systems which are effective in the very noisy environment created by a fire are also a vital safety tool.
+
+It’s essential to communicate any changes to the fire to all personnel on site, and to ensure safety of the resources and the public. 
+
+**Equipment**
+Ensure staff have handheld suppression tools nearby at all times in case of spot fires. A shovel or wet sack is useful for small breakouts. This allows personnel to be able to respond quickly to breakouts and spot fires as they arise, mitigating the likelihood of larger escape fires developing.
+
+Ensure all personnel are dressed in PPE before deployment into the burn area
+
+
