@@ -118,7 +118,7 @@ _Injury_
 _Hazards_
 *	Establish safe workarounds or mitigation steps to account for hazards
 
->>>>**Do not work alone.**
+>>                                   **Do not work alone.**
 
 **Everyone should work as a cohesive unit and must not be out of contact during any stages of the burn. It is recommended to be within eye and verbal communication with others at all times.**
 
