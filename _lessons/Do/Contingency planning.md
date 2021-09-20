@@ -13,6 +13,7 @@ user_access: anon
 * What if the weather changes?
 
 **Have a backup plan**
+
 Even with the best planning and preparation, things can still go wrong. It is important therefore to have a back-up plan for all likely eventualities.
 
 Contact details for the local emergency services, medical centres and pharmacy, along with neighbours and staff next of kin should be part of a contact sheet submitted with your burn plan. 
@@ -35,8 +36,11 @@ It is a good idea to have a checklist that will help you keep track of what PPE 
 *	and leather boots. – Ensure embers cannot fall inside the neck.
 
 Unless properly clothed, not only will the chance of sustaining a burn injury be high, but the effectiveness in the work to be done will be much reduced. The body needs protection from flying sparks and heat, while at the same time allowing freedom of movement and the ability to work quickly and efficiently.
+
 There is a need to cover limbs and face (arms, hands, face and torso especially) while protecting from overheating. As much of the body as possible should be covered to protect from radiant heat and ash.  While a large range of fire-fighting specialist apparel is available, and excellent from a protection point of view, many farmers have found these restrict movement, contain body heat and generally can make quick movement through vegetation when conducting ignition rather difficult. Firefighting apparel is often for fire suppression rather than the fire ignition tasks associated with controlled burn offs.
+
 Therefore, a balanced pragmatism is needed in choosing appropriate clothing for the weather and conditions, as burning off vegetation requires a person to move fast and keep going through the vegetation, without clothing and equipment encumbering you.
+
 Light cotton shirts over woolen singlets, woolen beanies, bandannas, etc. are ideal, but should be used in conjunction with heavier fabrics. Cotton can also become cold when wet.
 Shorts over woolen tights, or close fitted trousers (polycotton or moleskin) will protect legs. In addition, there is the need for good sturdy boots (not gumboots).
 Outer clothing must not be too tight fitting, however, as it should be easily removed if someone finds themselves alight. 
