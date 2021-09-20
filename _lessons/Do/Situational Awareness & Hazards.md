@@ -17,18 +17,21 @@ A useful tool to aid situational awareness while conducting the burn, and enhanc
 
 __LACES__ is an internationally recognised safety system used by professional firefighters to ensure crew safety and welfare when attending wildfire incidents. This tool can be readily adapted by those engaged in prescribed burning activities to prevent and mitigate against mishap and risk to operators. It stands for:
 
-        _L_ LOOKOUT
-        _A_ AWARENESS/ ANCHOR POINT
-        _C_ COMMUNICATIONS
-        _E_ ESCAPE ROUTES
-        _S_ SAFETY ZONES
+        * _L_ LOOKOUT
+        * _A_ AWARENESS/ ANCHOR POINT
+        * _C_ COMMUNICATIONS
+        * _E_ ESCAPE ROUTES
+        * _S_ SAFETY ZONES
 
 This table provides an overview of the various aspects of LACES, including the important role of the Lookout. 
-| Lookouts | | Lookouts watch the fire and those working in the area of burning. They need to have a good view of the entire burn area, and be able to recognise and anticipate dangerous situations and immediately communicate these to those in danger. |
-| Awareness / Anchor points | |	Situational awareness is an appreciation of the terrain, fuel types, fire behaviour and any changes in weather that might influence how the fire behaves. Anchor points are safe areas from which to light up or fight a fire, such as a track or firebreak, or previously burnt area. They serve as a barrier to fire spread and minimize the chance of being outflanked by a fire while a fire line is being constructed. | 
-| Communications | | Having at least one way (and preferably two, in case one fails) to regularly communicate with others on the fire ground and the Lookout, at regular intervals. Also ensuring everyone is briefed on and understands the burn plan, and that all instructions are clear and understood. |
-| Escape Routes	| | At least two planned escape routes need to be identified and known to all personnel involved, so that if one is cut off another option is available. Escape routes should be measured not in distance but in time taken to get to the safety zone — longer routes might be quicker and safer. |
-| Safety Zones | |	The escape routes ought to lead to a safety zone. Safety zones are refuge places, often blackened or burned out zones, or natural features like roads. They need to be upwind of the fire and clear of vegetation. To be effective, a safety zone should be large enough that you can be a safe distance (at least 10x the height of the vegetation) away from the fire. |
+
+
+| **Lookouts**             | Lookouts watch the fire and those working in the area of burning. They need to have a good view of the entire burn area, and be able to recognise and anticipate dangerous situations and immediately communicate these to those in danger. |
+| **Awareness / Anchor points**   | Situational awareness is an appreciation of the terrain, fuel types, fire behaviour and any changes in weather that might influence how the fire behaves. Anchor points are safe areas from which to light up or fight a fire, such as a track or firebreak, or previously burnt area. They serve as a barrier to fire spread and minimize the chance of being outflanked by a fire while a fire line is being constructed. |
+| **Communications**       | Having at least one way (and preferably two, in case one fails) to regularly communicate with others on the fire ground and the Lookout, at regular intervals. Also ensuring everyone is briefed on and understands the burn plan, and that all instructions are clear and understood. |
+| **Escape Routes**           | At least two planned escape routes need to be identified and known to all personnel involved, so that if one is cut off another option is available. Escape routes should be measured not in distance but in time taken to get to the safety zone — longer routes might be quicker and safer. |
+| **Safety Zones**    | The escape routes ought to lead to a safety zone. Safety zones are refuge places, often blackened or burned out zones, or natural features like roads. They need to be upwind of the fire and clear of vegetation. To be effective, a safety zone should be large enough that you can be a safe distance (at least 10x the height of the vegetation) away from the fire. |
+
 
 **Lookouts**
 One member of each burn team should always be assigned as a lookout. The main function is to watch the fire perimeter and ensure that it remains in control at all times, and that treated areas are fully extinguished and pose no risk of re-ignition. The lookout should position themselves where they can see the fire line, the fire itself, and the crews that are working the line. The size and complexity of the fire may require more than one lookout. Lookouts need to be experienced with controlled burns, so they can recognise danger immediately. Lookouts should also know the burn plan, so they know if the burn objective is being met, and if there are significant deviations that will impact on the outcome. Lookouts often have a dual role in tracking the weather regularly, and watching the sky for tell-tale signs of weather changes. 
