@@ -61,8 +61,8 @@ Once at the safe zone:
 
 Assess your options but act quickly
 
-Don’t worry about leaving equipment behind, as lives are more important!**  
-Don’t go after animals or personnel unless safe to do so – you will only put yourself into greater risk also!
+_Don’t worry about leaving equipment behind, as lives are more important!_ 
+_Don’t go after animals or personnel unless safe to do so – you will only put yourself into greater risk also!_
 
 __If you can’t reach the safety zone__
 
@@ -85,7 +85,9 @@ If caught in a wind shift retreat immediately to a safer area.
 
 
 >DO NOT run through flames unless you can clearly see the ground beyond. 
+
 >DO NOT run uphill or down wind away from the fire. 
+
 >DO NOT run into unburnt vegetation. 
 
 **If you are in a vehicle and the road is blocked by fire**
@@ -118,6 +120,7 @@ If you are burned, cool the burn immediately with cold water for at least 10 min
 Heavy smoke / dust may cause you breathing difficulties, injury or death. Move away. 
 
 **First Aid for severe burns**
+
 If a member of your crew is badly burned, you will have to cool the burned area immediately and watch out for signs of shock and get medical help.
 
 *	Avoid handling the affected areas more than is necessary. 
@@ -135,7 +138,7 @@ Think ahead and call the medical centre while on route if taking a patient for t
 
 ### Animals in distress
 
-* If livestock may be impacted by the fire, contact the owner if there is time and follow his/her instructions for moving the animals. 
+If livestock may be impacted by the fire, contact the owner if there is time and follow his/her instructions for moving the animals. 
 * Open gates and allow livestock to move away from the fire, and close gates to keep livestock from moving towards the fire. 
 * Herd animals around the edge of the fire and into the blackened area where it has already burned. 
 * Cut fences if necessary and move livestock onto cropland, minimizing the damage to growing crops as much as possible. 
