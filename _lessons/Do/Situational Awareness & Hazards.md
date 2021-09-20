@@ -16,12 +16,11 @@ A useful tool to aid situational awareness while conducting the burn, and enhanc
 ### LACES
 
 __LACES__ is an internationally recognised safety system used by professional firefighters to ensure crew safety and welfare when attending wildfire incidents. This tool can be readily adapted by those engaged in prescribed burning activities to prevent and mitigate against mishap and risk to operators. It stands for:
-
-        * _L_ LOOKOUT
-        * _A_ AWARENESS/ ANCHOR POINT
-        * _C_ COMMUNICATIONS
-        * _E_ ESCAPE ROUTES
-        * _S_ SAFETY ZONES
+* _L_ LOOKOUT
+* _A_ AWARENESS/ ANCHOR POINT
+* _C_ COMMUNICATIONS
+* _E_ ESCAPE ROUTES
+* _S_ SAFETY ZONES
 
 This table provides an overview of the various aspects of LACES, including the important role of the Lookout. 
 
