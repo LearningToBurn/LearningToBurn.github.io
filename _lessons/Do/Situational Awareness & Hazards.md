@@ -17,14 +17,14 @@ A useful tool to aid situational awareness while conducting the burn, and enhanc
 
 __LACES__ is an internationally recognised safety system used by professional firefighters to ensure crew safety and welfare when attending wildfire incidents. This tool can be readily adapted by those engaged in prescribed burning activities to prevent and mitigate against mishap and risk to operators. It stands for:
 
-_L_ LOOKOUT
-_A_ AWARENESS/ ANCHOR POINT
-_C_ COMMUNICATIONS
-_E_ ESCAPE ROUTES
-_S_ SAFETY ZONES
+        _L_ LOOKOUT
+        _A_ AWARENESS/ ANCHOR POINT
+        _C_ COMMUNICATIONS
+        _E_ ESCAPE ROUTES
+        _S_ SAFETY ZONES
 
 This table provides an overview of the various aspects of LACES, including the important role of the Lookout. 
-|Lookouts |	| Lookouts watch the fire and those working in the area of burning. They need to have a good view of the entire burn area, and be able to recognise and anticipate dangerous situations and immediately communicate these to those in danger. |
+| Lookouts | | Lookouts watch the fire and those working in the area of burning. They need to have a good view of the entire burn area, and be able to recognise and anticipate dangerous situations and immediately communicate these to those in danger. |
 | Awareness / Anchor points | |	Situational awareness is an appreciation of the terrain, fuel types, fire behaviour and any changes in weather that might influence how the fire behaves. Anchor points are safe areas from which to light up or fight a fire, such as a track or firebreak, or previously burnt area. They serve as a barrier to fire spread and minimize the chance of being outflanked by a fire while a fire line is being constructed. | 
 | Communications | | Having at least one way (and preferably two, in case one fails) to regularly communicate with others on the fire ground and the Lookout, at regular intervals. Also ensuring everyone is briefed on and understands the burn plan, and that all instructions are clear and understood. |
 | Escape Routes	| | At least two planned escape routes need to be identified and known to all personnel involved, so that if one is cut off another option is available. Escape routes should be measured not in distance but in time taken to get to the safety zone — longer routes might be quicker and safer. |
@@ -37,7 +37,10 @@ Should a fire escape, ensure all personnel are accounted for and summon the emer
 
 **Awareness**
 Even with a Lookout, situational awareness and communicating progress and changed conditions is EVERYONE’s responsibility. The burn supervisor and all the team members should be aware at all times of how the fire is progressing and how it is likely to react to the fuels in its path. 
-_Be aware of what the weather is doing throughout the day, and throughout the burn, as it changes._ As well as the external situation, attention must also be paid to the burning crew itself and signs of illness, fatigue or dehydration that may develop and affect fire control capabilities. 
+
+_Be aware of what the weather is doing throughout the day, and throughout the burn, as it changes._ 
+
+As well as the external situation, attention must also be paid to the burning crew itself and signs of illness, fatigue or dehydration that may develop and affect fire control capabilities. 
 
 **Communications** 
 Good clear communications must be maintained between burn team members and between burn teams and the Burn supervisor at all times. Clear communications links to the emergency services should be available, in the event they are required. A quick, reliable, and tested way to communicate might include direct portable radios, mobile phones, or verbal signals between nearby crew. If you plan on using radios or mobile phone, have a secondary system such as hand signals/semaphore, or whistles, in case of primary communication failure. Communications should also include regular reporting times to check in with the burn supervisor and communicate progress or any issues noted. Be aware that it can be very noisy in a fire environment, with limited visibility, so as fires get louder and smokier, the distance for signals between crew members may have to be shortened to adequately communicate.
