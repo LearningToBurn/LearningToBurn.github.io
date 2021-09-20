@@ -8,7 +8,7 @@ user_access: anon
 
 ### Remember your Primary Objective
 
-Firefighters in the have a series of Standard Orders to keep themselves and their crews safe. 
+Firefighters have a series of Standard Orders to keep themselves and their crews safe. 
 
 In the US, Standard Order #00 is “Get home safe to our families”
 
@@ -16,10 +16,7 @@ This is the primary objective in undertaking any burning on the farm too!
 
 ### Monitoring and situational awareness
 
-During the burn, keep aware of changing weather conditions, especially wind speed and
-relative humidity changes that could increase fire intensity and volatility. Having an offsite
-person monitor weather data and report changing conditions can alert the burn boss to
-the increasing chance of escapes and the need for extra vigilance.
+During the burn, keep aware of changing weather conditions, especially wind speed and relative humidity changes that could increase fire intensity and volatility. Having an offsite person monitor weather data and report changing conditions can alert the burn boss to the increasing chance of escapes and the need for extra vigilance.
 Be aware of what the weather is doing throughout the day, and throughout the burn, as it changes.
 
 __Be aware of the location of your safety zone and know two options for an escape route out of the area to the safety zone.__
@@ -59,6 +56,8 @@ In New Zealand, the most common contributing factors leading to burn injury at p
 
 _Table 1: Contributing factors to injury as a result of farm fire incident (New Zealand)_
 
+
+
 | **Burn injuries**             | **Number of incidents** |
 | Arms | 8 |
 | Hands       | 6 |
@@ -75,8 +74,8 @@ _Table 2: Most common body parts injured as a result of farm fire incident (New 
 ### Know where to position yourself when lighting
 
 Avoid working near a fire in unburnt fuels. 
-Commence lighting at an anchor point and progress along the flanks
-Keep downhill of flames – do not light vegetation when moving up steep slopes
+Commence lighting at an anchor point and progress along the flanks. 
+Keep downhill of flames – do not light vegetation when moving up steep slopes. 
 Due to the difficulty to predict where the fire will go in a gully, the risk of oxygen deprivation (due to the swirling fire removing all available oxygen), and the limited opportunities for safety zones or maintaining escape routes --**Do not enter a gully and light** -- leave steep gullies to the helicopter! 
 
 Know where others are located when lighting. If a number of people are burning simultaneously, each should be allocated a well defined section to light, and ensure to communicate progress with the others.
@@ -90,13 +89,12 @@ Where both sides of a narrow area are being lit, visual and other means of commu
 
 When lighting, stand with the breeze on your back to decrease the chance of smoke inhalation. Lighting should not follow the same direction as a strong wind. 
 
-Conduct backburns off the natural firebreaks to increase the area. Lighting from off a firebreak, so you always have a safer area to retreat to should the wind change. When lighting a slope, always ensure you are on the base of the fire, don’t position yourself uphill. The standard procedure is to either light from the base of the slope and follow the fire uphill, alternatively to head down from the top and burn back up to the snowline or firebreak, then move further down the hill using this newly burned area as a new firebreak, progressing in sections down. 
+Conduct backburns off the natural firebreaks to increase the area. Lighting from off a firebreak, so you always have a safer area to retreat to should the wind change. When lighting a slope, always ensure you are on the base of the fire, don’t position yourself uphill. 
+The standard procedure is to either light from the base of the slope and follow the fire uphill, alternatively to head down from the top and burn back up to the snowline or firebreak, then move further down the hill using this newly burned area as a new firebreak, progressing in sections down. 
 
 ### Handling spot fires and break aways
 
-If a lookout has been posted who can see the exact location of the escape, the chance of
-immediately identifying and intercepting the escape is increased. The lookout can supply
-information to the burn boss, who can reassign crew and equipment to control the escape.
+If a lookout has been posted who can see the exact location of the escape, the chance of immediately identifying and intercepting the escape is increased. The lookout can supply information to the burn boss, who can reassign crew and equipment to control the escape.
 Use hand tools, water or wet sacks to put out the small spot fires.
 
 Continue to monitor all fire lines at all times to prevent additional escapes, and reduce or cease ignition until crew members return to their usual locations.
@@ -112,7 +110,7 @@ Crew members should move out of the path of the fire into previously identified 
 
 If smoke is crossing a highway and the highway patrol has not yet arrived, station crew members alongside the road at both sides of the smoke column to flag down cars and stop them from entering the smoke. This prevents vehicle collisions due to smoke on the highway and its associated low visibility. As daylight decreases, the chance of smoke causing a vehicular injury increases.
 
-~ Insert handout link~
+`~Insert handout link~`
 
 ### Do not work alone.
 
