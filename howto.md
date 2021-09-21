@@ -14,7 +14,7 @@ functionality: quiz
 
 > Put this in a box
 
-- You can double this up to get a increased effect
+- _You can double this up to get a increased effect_
 
 >> Put this in a big box!
 
@@ -28,7 +28,7 @@ e.g. `### my h3 heading` ->
 
 ## Lists
 
-For bullet points, start a line with a dash "-" or an asterisk "*".  
+For bullet points, **start** a line with a dash "-" or an asterisk "*".  
 e.g. `- Point 1`
 - Point 1
 * A sentence that can be as long as you like. sadklfaskbecurcyaiwleurycbalweur ca;owye rcoawye r;oawy er;oawye r;oaw8ye ro;awy8er o;awey ro;aw8ye ro;aw8y ero;awe8yhf o;awe8hf o;aw8hef o;awh8fe o;awhef ;jash f;ashf;ouasefyagtf yawefiaywgefuk ygasukef gywe
