@@ -8,7 +8,7 @@ user_access: anon
 
 ### When fire escapes
 
-> Even the best laid plans can go awry...
+> **Even the best laid plans can go awry...**
 
 A sudden gust of wind or miscalculation in lighting up may cause a surge of fire to cross the fire break. The natural reaction is to get out of the way, which often leads to delays in attacking any smaller spot fires that may have started on the other side of the break. 
 
