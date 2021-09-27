@@ -62,41 +62,41 @@ Know why it is important to perform a briefing prior to burning, and how to brie
 ### Pre-Burn Briefing Checklist
 
 **Review the burn plan and make sure everyone understands it.**
--[] Burn objectives:
-    -[] Why are we burning?
-    -[] What do we hope to accomplish (objectives)?
-    -[] Review Burn Unit features and Map
-    -[] Explicitly identify burn boundaries.
-    -[] Point out important hazards.
-    -[] Identify anticipated fire movement/behaviour related to terrain and fuels.
-    -[] Identify which direction smoke will be travelling.
-    -[] Point out safe zones, critical holding points, and escape routes.
+-[ ] Burn objectives:
+    -[ ] Why are we burning?
+    -[ ] What do we hope to accomplish (objectives)?
+    -[ ] Review Burn Unit features and Map
+    -[ ] Explicitly identify burn boundaries.
+    -[ ] Point out important hazards.
+    -[ ] Identify anticipated fire movement/behaviour related to terrain and fuels.
+    -[ ] Identify which direction smoke will be travelling.
+    -[ ] Point out safe zones, critical holding points, and escape routes.
 
 **Make crew assignments.**
--[] Hand out lists with the names of all crew members.
--[] Define everyone’s role during the burn.
+-[ ] Hand out lists with the names of all crew members.
+-[ ] Define everyone’s role during the burn.
 
 **Review the weather forecast.**
--[]  Review current forecast.
--[] Point out approximate time of anticipated wind changes.
--[]  Describe expected fire behaviour.
+-[ ]  Review current forecast.
+-[ ] Point out approximate time of anticipated wind changes.
+-[ ]  Describe expected fire behaviour.
 
 **Communications**
--[]  Assign communication devices.
--[]  Demonstrate hand or other signals and their meanings.
+-[ ]  Assign communication devices.
+-[ ]  Demonstrate hand or other signals and their meanings.
 
 **Operations**
--[] Describe ignition plan and sequence.
--[] Assign crew locations.
--[] Assign vehicle locations and operation parameters (lights).
--[] Review required PPE.
--[] Point out known hazards: terrain, wildlife, smoke.
--[] Review contingency plan.
-    -[] Location of safe zone/escape routes.
-    -[] Crew member responsible for summoning assistance (escapes and injuries).
-    -[] Crew member responsible for leading attack on escaped fire.
-    -[] Crew member responsible for directing crew on original fire.
-    -[] Review suppression strategy for escaped fire.
+-[ ] Describe ignition plan and sequence.
+-[ ] Assign crew locations.
+-[ ] Assign vehicle locations and operation parameters (lights).
+-[ ] Review required PPE.
+-[ ] Point out known hazards: terrain, wildlife, smoke.
+-[ ] Review contingency plan.
+    -[ ] Location of safe zone/escape routes.
+    -[ ] Crew member responsible for summoning assistance (escapes and injuries).
+    -[ ] Crew member responsible for leading attack on escaped fire.
+    -[ ] Crew member responsible for directing crew on original fire.
+    -[ ] Review suppression strategy for escaped fire.
 
 
 - `![Figure1](assets/img/Module21_Fig1.png)` --> ![Figure1](assets/img/Module21_Fig1.png)
