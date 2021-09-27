@@ -99,7 +99,7 @@ Know why it is important to perform a briefing prior to burning, and how to brie
     -[ ] Review suppression strategy for escaped fire.
 
 
-- `![Figure1](assets/img/Module21_Fig1.png)` --> ![Figure1](assets/img/Module21_Fig1.png)
+- ![Figure1](assets/img/Module21_Fig1.png) --> ![Figure1](assets/img/Module21_Fig1.png)
 
 
 ### _Key safety messages_
