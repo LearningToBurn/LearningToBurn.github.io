@@ -41,7 +41,9 @@ A burn plan identifies both environmental and safety impacts and tries to mitiga
 * it helps us recognize our knowledge, equipment and preparation limitations for a prescribed burn; and 
 * it helps minimize our liability when we adhere to the plan because it demonstrates farmers are knowledgeable about fire and do not negligently apply this tool.
 
-~ INSERT IMAGE
+ ![Figure1](/assets/img/Module3_Fig1.png)
+
+~ RE-GRAPHIC THIS IMAGE
 
 >**If you have a burn plan, it does not absolve you from responsibilities if you have not conducted a burn in a safe manner. You can still be prosecuted if the fire is not conducted in a safe manner and you have not taken adequate measures to protect your staff, livestock or the public from the effects of your burn off.**
 
