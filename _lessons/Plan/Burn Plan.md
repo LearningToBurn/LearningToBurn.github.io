@@ -70,7 +70,7 @@ Complete this form when you’re planning a complex land clearing burn, to ensur
 | Appendix B: CIMS incident command structure      | Only required for a complex high-country burn, when you require a lot of staff to help. |
 | Appendix C: Fire and weather behaviour pre-burn observations        | Fill this in on the day of the burn before you light up. It can help you determine whether the burn conditions are met. |
 | Appendix D: Fire weather observations during burning        | Take the plan with you to document weather before, during and after the burn. If things go wrong this can help explain the why. |
-
+{:class="table_with_header_column"}
 _Self-Check: Think about a burn you have conducted in the past; did you consider the above points? Reflect on how these points may have helped assist you with previous burn experiences._
 
 >__Activity:__
@@ -80,4 +80,3 @@ _Self-Check: Think about a burn you have conducted in the past; did you consider
 Knowing your responsibilities and liabilities before conducting a prescribed burn
 
 
-{:class="table_with_header_column"}
