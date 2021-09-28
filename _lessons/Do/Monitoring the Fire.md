@@ -41,18 +41,21 @@ You will need enough patrols to:
 The greatest danger exists along the perimeter firebreak where it has been freshly lit, bordering on flammable fuel outside the burn.
 
 **Flare ups**
+
 Flare-ups can occur doing the mop-up stages when you and your staff relax and think your fire is controlled and contained. In the event of a sudden flareup or flame across a break, lie flat on the ground rather than running.
 
 Wind gusts can suddenly increase a fire’s intensity and flame lengths, especially in light fuels during wind gusts can cause burning material to drop or it will drop outside the burn area (cross your fire breaks) and start new spot fires.  An increase in wind and temperature may lift a surface fire into the unburnt overhead fuels.
 
 
 **Smoke reducing visibility**
+
 Make sure staff are positioned upwind of the smoke to reduce visibility issues and smoke inhalation of staff helping with the burn.
 
 If the burn happens to be on the lee edge of the area being burnt, there is even more reason for patrols to be close together because smoke blowing over them will restrict their visibility.
 
 
 **Flames come across a firebreak**
+
 Rapidly suppress any new fire starts (spot fires) outside of the planed burn area, if it is safe to do so, to prevent a fire getting out of hand.
 
 If the escape is too large to control, retreat to the safe zone using the known escape route. Call **111** immediately if at any point you are concerned about a risk to people, property, or the environment.
@@ -61,6 +64,7 @@ If the escape is too large to control, retreat to the safe zone using the known 
 ### Post-burn mop-up and monitoring
 
 **Mop Up**
+
 Mopping up (or blacking out) is the process of checking the entire perimeter of the burn area to ensure all fires or smoldering materials are out. This could include chips, logs, dead trees and small areas still burning.
 
 Mopping up can commence as soon as the burn objectives are achieved.
@@ -72,6 +76,7 @@ A burn area is considered safe when no smouldering material is found within it o
 
 
 **Post Burn monitoring**
+
 After the burn is complete, check the burn in the days and weeks following burning to ensure its completely out and cannot escape.
 
 When strong winds occur, it can fan the fire back into life and transfer embers, creating unwanted fires.  
@@ -80,6 +85,7 @@ Piles of burnt vegetation can hold heat for months after burning. Check piles or
 
 
 **Weed control**
+
 Fire will stimulate the germination of many plant species, including weeds. That's why controlling weeds that emerge after a burn is important. Weed control that is planned carefully in conjunction with burns can reduce the time taken to manage the infestation
 
 
