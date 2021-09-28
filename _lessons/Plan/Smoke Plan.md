@@ -52,7 +52,7 @@ Traffic control plans could be required when there is a chance of smoke impactin
 * Less smoke is generated when fewer acres are burned if fuel loads are equivalent. Burn only when a specific management objective requires it. 
 * Fuel loads are also reduced when burning occurs at frequent intervals, reducing fuel buildup, especially of woody species. Livestock or wildlife grazing decreases fuel loads, but range managers should be certain that enough fuel remains to carry the fire and meet management objectives.
 
-~Insert image~
+![Figure1](/assets/img/Module4_fig1.png)
 
 ### What is in a smoke management plan?
 
@@ -69,9 +69,12 @@ _Self-Check: Think about a burn you have conducted in the past; did you consider
 
 
 >__Activity__  Complete a Smoke Management Plan for your planned burn. 
+>
+>([Link for Ecan smoke plan](https://eplan.ecan.govt.nz/eplan/#Rules/0/234/1/16857))
+>([Link for FAR smoke plan](https://www.far.org.nz/articles/67/burning-and-smoke-management-plan-201718))
+>
 
-([Link for Ecan smoke plan](https://eplan.ecan.govt.nz/eplan/#Rules/0/234/1/16857))
-([Link for FAR smoke plan](https://www.far.org.nz/articles/67/burning-and-smoke-management-plan-201718))
+
 
 ### Learning outcome: 
 
