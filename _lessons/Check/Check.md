@@ -18,10 +18,15 @@ The first stage is to check and comply with the legal and administrative require
 
 __Self-Check__: the fire season status and permitting requirements in your region using the [checkitsalright.nz](https://checkitsalright.nz) website.
 
+![Figure1](/assets/img/Module1_Fig1.png))
+
+
+<!--
 | Open       | During an open season, farmers may light fires in the open air without a permit. They must follow best practice guidelines to ensure safe burning |
 | Restricted | Permits may or may not be required during a restricted season, you need to check |
 | Prohibited | During a total fire ban (or Prohibited season) special permits are always required. Strick guidelines must be adhered to and burning during a total fire ban is not recommended |
 {:class="table_with_header_column"}
+--->
 
 ### Check with your local and regional councils about any other rules or restrictions.
 

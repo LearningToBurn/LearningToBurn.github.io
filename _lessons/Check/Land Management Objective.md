@@ -60,7 +60,7 @@ Once the decision has been made that you need fire, the objectives must be devel
 _Self-check: These are important elements that go into a burn plan. If you donâ€™t know these things, then you are not ready to burn._
 
 > Activity:
-> 
+>
 > Write your own land management objective for a proposed prescribed burn on your property. State the following:
 > * the purpose of your burn,
 > * the type of fire you will need
@@ -69,7 +69,7 @@ _Self-check: These are important elements that go into a burn plan. If you donâ€
 > * how you will do the burn
 > * who will be involved
 
-#### Example:
+### Example:
 
 | Purpose               | Improve grazing |
 | Type of burn          | Large land clearance tussock burn |
