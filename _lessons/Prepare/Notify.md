@@ -17,7 +17,9 @@ The smoke from larger burn offs can reduce visibility, in a similar manner to fo
 * In some instances, roads have been closed due to the low visibility caused by the smoke. Where driving visibility is reduced due to smoke, the largest risk to motorists appears to be the potential for rear ending vehicles in front that have slowed their speed or stopped due to smoke presence. 
 
 > Activity:  read about the following examples on where smoke has caused public impacts
-Click to view an example of where smoke from a burn-off caused traffic accident: ([Crash on SH2 in the Hawkes Bay believed to be caused by smoke from burnoff](https://www.stuff.co.nz/dominion-post/news/hawkes-bay/125359513/crash-on-state-highway-2-in-tne-hawkes-bay-believed-to-be-caused-by-smoke-from-burnoff))
+>Click to view an example of where smoke from a burn-off caused traffic accident: 
+>
+>[Crash on SH2 in the Hawkes Bay believed to be caused by smoke from burnoff](https://www.stuff.co.nz/dominion-post/news/hawkes-bay/125359513/crash-on-state-highway-2-in-tne-hawkes-bay-believed-to-be-caused-by-smoke-from-burnoff)
 
 ### Who you need to notify
 
@@ -33,7 +35,7 @@ Notify the people you have identified and contacted during the planning phase as
 
 * Post some smoke-warning signs to warn the public of areas where some may create a hazard to driving. Man these areas (day and night) to ensure smoke is not creating a safety concern, be prepared to move the signs as needed. For unexpected serious reductions in road visibility, stop traffic until smoke clears. You don’t want any traffic accidents on your conscience.
 
-
+\
 Implementing planned public safety for areas that have access routes for walking, hiking or fishing. This includes the:
 * Placement of temporary barriers to control public access to the burn area. 
 * Placement of warning or advisory signs at entry points or intersections
@@ -46,11 +48,12 @@ Contact Fire and Emergency so we know what you are intending, and we can provide
 Fire and Emergency can provide free advice to help you achieve the result you want safely. Receiving advice does not take away your responsibility for the fire but use of our expertise can minimise your risk and the adverse consequences of your burn.
 
 Larger burns may take several months to prepare, so it’s important to get in touch with us early.
-Contact details for your local Fire and Emergency office are available on the ([checkitsalright.nz website] (checkitsalright.nz)).
+Contact details for your local Fire and Emergency office are available on the [checkitsalright](www.checkitsalright.nz) website.
 
 > __Activity__
-Read the following news article, why where people alarmed about this fire?
-([https://www.stuff.co.nz/national/86787640/large-fire-at-okere-falls-controlled-burnoff](https://www.stuff.co.nz/national/86787640/large-fire-at-okere-falls-controlled-burnoff)) 
+>Read the following news article, why where people alarmed about this fire?
+>
+>[Large fire at okere Falls 'controlled burn'](https://www.stuff.co.nz/national/86787640/large-fire-at-okere-falls-controlled-burnoff)
 
 ### What sorts of information a notification should include
 
@@ -61,7 +64,8 @@ The information in a notification could include:
 * Potential impacts of the burn (smoke and access restrictions)
 * Contact details for further information
 
-~Insert image~
+![Figure1](/assets/img/Module8_Fig1.png)
+
 
 >__Activity:__
 * Make a list of all persons and organisations that should be notified of your prescribed burn in advance or on the day of the burn.
