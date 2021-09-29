@@ -85,10 +85,7 @@ In the lead up to and on the day of the burn, there are several tasks that must 
 
 
 
->___**Activity**___:  print this check list off and go through it. 
-
-
-
+>__**Activity**__:  print this check list off and go through it. 
 
 
 
