@@ -101,14 +101,15 @@ On the day of the burn:
 _Self Check: think back to a burn you conducted, did you have any issues with smoke or fire impacting others. What did mitigations did you take, or could you have taken?_
 
 
->___Activity: Doing it right!__
-Read the following news articles:
-([Article 1](https://www.stuff.co.nz/nelson-mail/news/115522698/holy-smoke-another-big-burnoff-catches-public-attention))
-([Article 2](https://www.stuff.co.nz/nelson-mail/news/115441012/wairau-valley-fire-no-cause-for-alarm-says-fenz?rm=a))
-* What actions has the farmer taken to notify of this burn?
+>__Activity: Doing it right!__
+>Read the following news articles:
+>([Article 1](https://www.stuff.co.nz/nelson-mail/news/115522698/holy-smoke-another-big-burnoff-catches-public-attention))
+>([Article 2](https://www.stuff.co.nz/nelson-mail/news/115441012/wairau-valley-fire-no-cause-for-alarm-says-fenz?rm=a))
+>
+>* What actions has the farmer taken to notify of this burn?
 
 ### Learning outcomes: 
 
-Understanding the importance of why you need to notify.
+* Understanding the importance of why you need to notify.
 
-Identifying who and when you need to notify your intent to burn. 
+* Identifying who and when you need to notify your intent to burn. 
