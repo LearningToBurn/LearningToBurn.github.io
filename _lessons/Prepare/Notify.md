@@ -35,7 +35,7 @@ Notify the people you have identified and contacted during the planning phase as
 
 * Post some smoke-warning signs to warn the public of areas where some may create a hazard to driving. Man these areas (day and night) to ensure smoke is not creating a safety concern, be prepared to move the signs as needed. For unexpected serious reductions in road visibility, stop traffic until smoke clears. You don’t want any traffic accidents on your conscience.
 
-\
+
 Implementing planned public safety for areas that have access routes for walking, hiking or fishing. This includes the:
 * Placement of temporary barriers to control public access to the burn area. 
 * Placement of warning or advisory signs at entry points or intersections
