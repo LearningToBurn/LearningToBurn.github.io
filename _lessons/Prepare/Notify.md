@@ -67,7 +67,7 @@ The information in a notification could include:
 ![Figure1](/assets/img/Module8_Fig1.png)
 
 
->__Activity:__
+>_Activity:_
 * Make a list of all persons and organisations that should be notified of your prescribed burn in advance or on the day of the burn.
 * Identify how each contact should be made and by whom.
 * Practise writing a public notification explaining the reasons for the burn and if you expect to produce a lot of smoke, encourage those with respiratory problems to stay indoors and keep windows closed. 
