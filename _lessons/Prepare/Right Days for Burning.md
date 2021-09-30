@@ -13,9 +13,10 @@ To conduct a prescribed burn safely and effectively it’s important to closely 
   
 The time of the year to burn depends on the state of the fuel (vegetation) to be burnt and appropriate weather conditions.
 In damper areas, burning may be confined to the driest months (January and February). Where the fuel has been treated to increase its flammability and where ample good burning weather is available, burning ma be done in March or April, when less hazardous weather conditions prevail.
+
 Generally, it is necessary to take advantage of suitable weather as it occurs, at the same time striking a balance between obtaining a clean burn and keeping the hazard of burning within manageable bounds.
 
-~Insert Image~
+![Module 11 Fig1](/assets/img/module11_Fig1.png)
 
 
 ### Time of day
@@ -36,7 +37,7 @@ You need to be familiar with your local and regional weather patterns. Fire gene
 
 Examples of this are:
 * coastal areas – the onshore coastal breezes arrive most afternoons
-* hilly or mountainous areas – cool katabatic winds push down valley systems in the evening.
+* Hilly or mountainous areas – cool katabatic winds push down valley systems in the evening.
 * An approaching front can change the wind direction, wind speed, rainfall, temperature and humidity levels.
 
 
@@ -81,16 +82,20 @@ _It is not unusual in some localities to find there are perhaps only 2-3 days du
 * If the forecast is for poor night-time dispersion, halt ground ignition before 3 p.m. Halt ignition before 4 p.m. to allow adequate time for the fire to burn out before atmospheric dispersion conditions deteriorate. At night smoke tends to stay near the ground and collects in depressions.
 * Also, relative humidity is higher at night, resulting in spotty burning and an increased likelihood of fog formation. However, on some winter nights when a strong cold front is moving through the area, winds remain strong and persistent and relative humidity does not rise greatly. These conditions can provide good prescribed burning conditions especially when cooler temperatures are needed. Whenever night burning is done, keep a close watch on the weather and smoke drift.
 
-`Insert Table` 
+![Module 11 Fig1](/assets/img/module11_Fig3.png)
 
-~Insert Image~
+<br />
+
+![Module 11 Fig1](/assets/img/module11_Fig2.png)
+
+
 
 Burning is not recommended when:
-*air temperature exceeds 27C 
-*wind speeds exceed 32 km/h 
-*relative humidity is less than 20 percent, 
-*variable or no-wind conditions.
-*Burning is not recommended within 12 hours of a predicted wind shift.
+* air temperature exceeds 27C 
+* wind speeds exceed 32 km/h 
+* relative humidity is less than 20 percent, 
+* variable or no-wind conditions.
+* burning is not recommended within 12 hours of a predicted wind shift.
 
 `VC to add in 30-30-30 rule`
 
