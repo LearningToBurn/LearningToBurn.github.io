@@ -10,7 +10,7 @@ user_access: anon
 
 It’s important to have a checklist and schedule activities to ensure that everything is in place before you conduct the burn so that you are adequately prepared. 
 
-In the lead up to and on the day of the burn, there are several tasks that must be performed.  
+In the lead up to and on the day of the burn, there are several tasks that must be performed.  [Click here for the printable version](https://github.com/LearningToBurn/LearningToBurn.github.io/blob/c9ae6da034fc3301c88de0013896fa279a33b1d7/Module%209_form.pdf)
 
 
 **12 Months Prior to the burn**
@@ -83,9 +83,8 @@ In the lead up to and on the day of the burn, there are several tasks that must 
 
 
 
+>__**Activity**__:  Download and print this check list off and go through it. [Click here](https://github.com/LearningToBurn/LearningToBurn.github.io/blob/c9ae6da034fc3301c88de0013896fa279a33b1d7/Module%209_form.pdf)
 
-
->__**Activity**__:  print this check list off and go through it. 
 
 
 
