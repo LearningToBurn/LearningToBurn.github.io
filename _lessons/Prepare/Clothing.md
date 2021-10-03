@@ -95,4 +95,4 @@ _Self check_
 
 ### Learning outcome: 
 
-What are the aspects about protective clothing you need to consider in order to be safe when burning
+What are the aspects about protective clothing you need to consider in order to be safe when burning?
