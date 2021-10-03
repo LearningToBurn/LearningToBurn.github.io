@@ -6,7 +6,7 @@ brand: scion
 user_access: anon
 ---
 
-# Weather
+## Weather
 
 Weather is an important factor to consider when planning your burn. It can change quickly and can catch you out. 
 
