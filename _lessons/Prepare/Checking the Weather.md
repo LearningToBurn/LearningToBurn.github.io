@@ -6,9 +6,10 @@ brand: scion
 user_access: anon
 ---
 
-**Weather**
+# Weather
 
 Weather is an important factor to consider when planning your burn. It can change quickly and can catch you out. 
+
 *	Up-to-date weather observations and forecasts are crucial for determining fire danger and fire behavior [Click here](https://fireweather.niwa.co.nz/)
 
 
@@ -16,22 +17,18 @@ Weather is an important factor to consider when planning your burn. It can chang
 
 It is important to obtain the latest weather forecast for the area in the morning. You need a current and long range forecast, obtained no more than 12 hours before light-up.
 
-<br />
-
 **Do not** light up if:
 *	there are strong winds or when strong winds are predicted. Generally, fires should not be lit with a wind greater than 25km/h (small branches are moved). Your permit may specify a maximum wind speed.
 *	smoke drift from the fire could cause nuisance to nearby towns, residences or compromise traffic safety on roads.
 *	the wind is blowing towards adjacent forestry blocks, public conservation land, buildings, or other sensitive environments.
 
-<br />
-
 Continue monitoring the weather forecast during the day and change your plans to suit the weather.
 
 Fire and emergency with NIWA have developed an online website  [[Click here](https://fireweather.niwa.co.nz/)]  which displays the current and forecast fire weather conditions. The website is scalable so works on a PC, tablet, phone or any other device with an internet connection.
 
-<br />
-
 The webpage has a Geolocation tool built into it so you can access the fire weather information from the field. 
+
+<br />
 
 ## Step 1:    Use the link to check: [Click here](https://fireweather.niwa.co.nz/)
 
@@ -92,6 +89,8 @@ This table shows the fire danger classes for forest, scrub and grass vegetation,
 ### Alternatives to FWSYS
 While NIWA and MetService provide good sources of information on weather forecasting, and monitoring the fire danger daily or hourly (NIWA fire website). You can also view more frequent current weather data using the Harvest site.  You can  track weather parameters from the nearest weather station, which updates every10mins.  This site also has basic weather forecasts out to 10 days using Weather Underground.
 
+<br />
+
 ## Step 1: [Click here](https://nrfa.harvest.com/) to visit the Harvest
 
 ![Module 13 - Figure 8](/assets/img/module13_Fig8.png)
@@ -135,11 +134,11 @@ While NIWA and MetService provide good sources of information on weather forecas
 
 ### Access to weather information to support fire weather and fire behaviour tools:
 
-* MetService [[Click here](http://www.metservice.co.nz/)] 	
+* **MetService** [[Click here](http://www.metservice.co.nz/)] 	
 
-* NIWA weather [[Click here](http://weather.niwa.co.nz/)]      
+* **NIWA weather** [[Click here](http://weather.niwa.co.nz/)]      
 
-* Victoria Uni. MetVuW  [[Click here](http://www.metvuw.com/)]   	
+* **Victoria Uni. MetVuW**  [[Click here](http://www.metvuw.com/)]   	
 
 `Need to have a link to the explanation of what the fire dangers mean, and what you can and can’t do,  - CROSS LINK TO module on fire codes and indicies`
 
