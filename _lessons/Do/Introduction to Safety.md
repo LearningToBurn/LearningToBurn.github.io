@@ -104,22 +104,28 @@ Ensure all personnel are dressed in PPE before deployment into the burn area
 
 While the risk of the burn escaping is a key risk that must be taken into consideration, effective planning and burn preparations also need to consider other potential outcomes where contingency plans may need to be planned for, such as: 
 
-_Equipment breakdown_
+_**Equipment breakdown**_
 *	Plan the burn to incorporate more than just the bare minimum of resources. 
 *	Include spare equipment or standby equipment in case of breakdown or failure
 
-_Injury_
+_**Injury**_
 *	Check first aid equipment is adequate to treat potential injuries
 *	Include the ambulance service and nearest medical centre in notification checklist
 *	Specify rescue helicopter, ambulance and medevac routes and checkpoints on operational map in the burn plan and tailgate meeting.
 *	Plan and  communicate which roles can be recalled to assist with an injury, and which must be maintained to ensure burn security.
 
-_Hazards_
+_**Hazards**_
 *	Establish safe workarounds or mitigation steps to account for hazards
 
 > **Do not work alone.**
 >
 >**Everyone should work as a cohesive unit and must not be out of contact during any stages of the burn. It is recommended to be within eye and verbal communication with others at all times.**
+
+
+![Module 15 - Figure 1](/assets/img/module16_Fig1.png)
+
+<br />
+
 
 ### Safety Precautions are critical.
 
