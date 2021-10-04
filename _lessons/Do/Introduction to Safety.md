@@ -122,7 +122,7 @@ _**Hazards**_
 >**Everyone should work as a cohesive unit and must not be out of contact during any stages of the burn. It is recommended to be within eye and verbal communication with others at all times.**
 
 
-![Module 15 - Figure 1](/assets/img/module16_Fig1.png)
+![Module 16 - Figure 1](/assets/img/module16_fig1.png)
 
 <br />
 
