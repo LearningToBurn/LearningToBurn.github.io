@@ -53,8 +53,8 @@ _Qu. Will the burn plan result in a safe operation (staff and reducing escapes)?
 
 >__Activity:__ Reviewing the following two burn plans, make an assessment on whether they contain all the elements.  Compare between the two plans. Which one is poorly written, and what does it need to improve it.
 
-~Link to plan 1
-~Link to Plan 2
+([Link to US Burn plan template](https://www.pdffiller.com/17244887-fillable-fillable-prescribed-burn-plan-form-azdeq))
+([Example of completed US Burn plan template](https://extension.okstate.edu/fact-sheets/burn-plan-for-prescribed-burning.html))
 
 ### Learning outcome: 
 Know why it is important to review a burn plan in the lead up to burning, and what advanced preparation is required to ensure you can burn on the day. 
