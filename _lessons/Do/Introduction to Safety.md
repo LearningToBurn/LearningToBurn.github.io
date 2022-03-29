@@ -39,7 +39,6 @@ _Fire and Emergency will have issued you with pink LACES cards when you received
 _Read and remember the points on these cards. They may save your life._
 
 
-
 `Add in pink card photo`
 
 ### Burn supervisor role
@@ -105,22 +104,28 @@ Ensure all personnel are dressed in PPE before deployment into the burn area
 
 While the risk of the burn escaping is a key risk that must be taken into consideration, effective planning and burn preparations also need to consider other potential outcomes where contingency plans may need to be planned for, such as: 
 
-_Equipment breakdown_
+_**Equipment breakdown**_
 *	Plan the burn to incorporate more than just the bare minimum of resources. 
 *	Include spare equipment or standby equipment in case of breakdown or failure
 
-_Injury_
+_**Injury**_
 *	Check first aid equipment is adequate to treat potential injuries
 *	Include the ambulance service and nearest medical centre in notification checklist
 *	Specify rescue helicopter, ambulance and medevac routes and checkpoints on operational map in the burn plan and tailgate meeting.
 *	Plan and  communicate which roles can be recalled to assist with an injury, and which must be maintained to ensure burn security.
 
-_Hazards_
+_**Hazards**_
 *	Establish safe workarounds or mitigation steps to account for hazards
 
 > **Do not work alone.**
+>
+>**Everyone should work as a cohesive unit and must not be out of contact during any stages of the burn. It is recommended to be within eye and verbal communication with others at all times.**
 
-**Everyone should work as a cohesive unit and must not be out of contact during any stages of the burn. It is recommended to be within eye and verbal communication with others at all times.**
+
+![Module 16 - Figure 1](/assets/img/module16_fig1.png)
+
+<br />
+
 
 ### Safety Precautions are critical.
 
@@ -135,9 +140,10 @@ _Hazards_
 * Watch for changes in weather
 
 >__Activity:__  Identifying safety precautions at burn site
-Look at a topographical map of your proposed burn area. Use the map to identify waterpoints, values and assets that need protecting, proposed control lines, safety zones, neighbours and prominent winds. 
-* What safety precautions can you take to make the burn site safer due to these hazards?
-* Using the map as a reference, how could you make staff aware of hazards, tracks, water points, and safety zones?
+>
+>Look at a topographical map of your proposed burn area. Use the map to identify waterpoints, values and assets that need protecting, proposed control lines, safety zones, neighbours and prominent winds. 
+>* What safety precautions can you take to make the burn site safer due to these hazards?
+>* Using the map as a reference, how could you make staff aware of hazards, tracks, water points, and safety zones?
 
 ### Learning outcome: 
 

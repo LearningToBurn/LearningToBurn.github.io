@@ -17,7 +17,9 @@ The smoke from larger burn offs can reduce visibility, in a similar manner to fo
 * In some instances, roads have been closed due to the low visibility caused by the smoke. Where driving visibility is reduced due to smoke, the largest risk to motorists appears to be the potential for rear ending vehicles in front that have slowed their speed or stopped due to smoke presence. 
 
 > Activity:  read about the following examples on where smoke has caused public impacts
-Click to view an example of where smoke from a burn-off caused traffic accident: ([Crash on SH2 in the Hawkes Bay believed to be caused by smoke from burnoff](https://www.stuff.co.nz/dominion-post/news/hawkes-bay/125359513/crash-on-state-highway-2-in-tne-hawkes-bay-believed-to-be-caused-by-smoke-from-burnoff))
+>Click to view an example of where smoke from a burn-off caused traffic accident: 
+>
+>[Crash on SH2 in the Hawkes Bay believed to be caused by smoke from burnoff](https://www.stuff.co.nz/dominion-post/news/hawkes-bay/125359513/crash-on-state-highway-2-in-tne-hawkes-bay-believed-to-be-caused-by-smoke-from-burnoff)
 
 ### Who you need to notify
 
@@ -46,11 +48,12 @@ Contact Fire and Emergency so we know what you are intending, and we can provide
 Fire and Emergency can provide free advice to help you achieve the result you want safely. Receiving advice does not take away your responsibility for the fire but use of our expertise can minimise your risk and the adverse consequences of your burn.
 
 Larger burns may take several months to prepare, so it’s important to get in touch with us early.
-Contact details for your local Fire and Emergency office are available on the ([checkitsalright.nz website] (checkitsalright.nz)).
+Contact details for your local Fire and Emergency office are available on the [checkitsalright](www.checkitsalright.nz) website.
 
 > __Activity__
-Read the following news article, why where people alarmed about this fire?
-([https://www.stuff.co.nz/national/86787640/large-fire-at-okere-falls-controlled-burnoff](https://www.stuff.co.nz/national/86787640/large-fire-at-okere-falls-controlled-burnoff)) 
+>Read the following news article, why where people alarmed about this fire?
+>
+>[Large fire at okere Falls 'controlled burn'](https://www.stuff.co.nz/national/86787640/large-fire-at-okere-falls-controlled-burnoff)
 
 ### What sorts of information a notification should include
 
@@ -61,9 +64,10 @@ The information in a notification could include:
 * Potential impacts of the burn (smoke and access restrictions)
 * Contact details for further information
 
-~Insert image~
+![Figure1](/assets/img/Module8_Fig1.png)
 
->__Activity:__
+
+>_Activity:_
 * Make a list of all persons and organisations that should be notified of your prescribed burn in advance or on the day of the burn.
 * Identify how each contact should be made and by whom.
 * Practise writing a public notification explaining the reasons for the burn and if you expect to produce a lot of smoke, encourage those with respiratory problems to stay indoors and keep windows closed. 
@@ -97,14 +101,15 @@ On the day of the burn:
 _Self Check: think back to a burn you conducted, did you have any issues with smoke or fire impacting others. What did mitigations did you take, or could you have taken?_
 
 
->___Activity: Doing it right!__
-Read the following news articles:
-([Article 1](https://www.stuff.co.nz/nelson-mail/news/115522698/holy-smoke-another-big-burnoff-catches-public-attention))
-([Article 2](https://www.stuff.co.nz/nelson-mail/news/115441012/wairau-valley-fire-no-cause-for-alarm-says-fenz?rm=a))
-* What actions has the farmer taken to notify of this burn?
+>__Activity: Doing it right!__
+>Read the following news articles:
+>([Article 1](https://www.stuff.co.nz/nelson-mail/news/115522698/holy-smoke-another-big-burnoff-catches-public-attention))
+>([Article 2](https://www.stuff.co.nz/nelson-mail/news/115441012/wairau-valley-fire-no-cause-for-alarm-says-fenz?rm=a))
+>
+>* What actions has the farmer taken to notify of this burn?
 
 ### Learning outcomes: 
 
-Understanding the importance of why you need to notify.
+* Understanding the importance of why you need to notify.
 
-Identifying who and when you need to notify your intent to burn. 
+* Identifying who and when you need to notify your intent to burn. 

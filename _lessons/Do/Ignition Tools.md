@@ -96,7 +96,11 @@ Keep a spare burner handy for quick replacement to minimise the delay in maintai
 *	Lower leg injuries can occur due to dripping fuels igniting, mostly from a leaking drip torch.
 *	Check your clothing for the ‘telltale signs’ of patches on the lower legs of clothing where the oily drips have stained the material.
 
-Refer ([Link](https://wildfirelessons.wordpress.com/2017/02/16/drip-torch-leg-burns/))
+![Module 15 - Figure 1](/assets/img/module15_Fig1.png)
+
+<br />
+
+Refer ([Click here](https://wildfirelessons.wordpress.com/2017/02/16/drip-torch-leg-burns/))
 
 ### Home-made hand burners
 The standard ignition tool used is a petrol/diesel-soaked rag inside an old tin can on the end of a meter-long wire (like a wand). An old teapot with a ceramic handle and a wick in the spout is an alternate option.
@@ -117,7 +121,7 @@ Flamethrowers are less commonly used. They usually have a backpack arrangement w
 
 >_**CAUTION**_
 The **knapsack type burner** is prone to breakdown and leakages which is a source of danger to the operator 
-*	Serious injury has occurred in New Zealand from using a ‘ Solo’ spray units with an adapted flamethrower to burn roots and woody scrub. These units can leak fuel readily and your pants can catch on fire. 
+*	Serious injury has occurred in New Zealand from using a ‘Solo’ spray units with an adapted flamethrower to burn roots and woody scrub. These units can leak fuel readily and your pants can catch on fire. 
 *	Take special care when using them near people.
 
 **Vehicle-mounted flame-throwers**: An operator sits in the back of a vehicle tray using the flame thrower while the vehicle drives along the ignition line. 
