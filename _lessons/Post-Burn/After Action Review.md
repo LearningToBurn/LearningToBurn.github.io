@@ -6,7 +6,7 @@ brand: scion
 user_access: anon
 ---
 
-### After Action Review
+### After-Action Review
 After the burn is completed, its important to conduct a debrief (or After-Action Review) with staff about the burn (successes and failures). The debrief with staff will help you develop a written evaluation of the burn.  Documenting this will help you remember and improve for future burns. 
 
 
