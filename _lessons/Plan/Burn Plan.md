@@ -51,11 +51,11 @@ Click here to view a: Prescribed burn plan template - `[Click Here!](http://www.
 
 Complete this form when you’re planning a complex land clearing burn, to ensure all factors have been considered. For complex land clearing burns, this plan must be approved by the Principal Rural Fire Officer or delegate. This plan includes the following sections (**not all sections may be applicable for your burn**):
 
-| **CONTENT**             | **WHAT NEEDS TO BE COMPLETED** |
-| Part A: Plan contents  | This is a checklist for you to ensure you have completed all the information you need.  You will need to append some maps |
-| Part B: Approvals    | You will need to get sign off from the landowner, person responsible for the burn and the Principal Rural Fire Officer |
-| Part C: Contact and property details           | Name of the landowner, name and contact details for the person responsible for the burn, and the property legal description |
-| Part D: Burn details | Outline your burn objectives (how much you will burn, type of burn, the fuel types, the topography) and location of the burn |
+| **CONTENT**                    | **WHAT NEEDS TO BE COMPLETED** |
+| Part A: Plan contents         | This is a checklist for you to ensure you have completed all the information you need.  You will need to append some maps |
+| Part B: Approvals         | You will need to get sign off from the landowner, person responsible for the burn and the Principal Rural Fire Officer |
+| Part C: Contact and property details               | Name of the landowner, name and contact details for the person responsible for the burn, and the property legal description |
+| Part D: Burn details      | Outline your burn objectives (how much you will burn, type of burn, the fuel types, the topography) and location of the burn |
 | Part E: Surrounding vegetation             | What vegetation types are found on neighbouring lands |
 | Part F: Perimeter control lines               | Identify what fuel breaks you have and where. *Refer* What is a fuel break |
 | Part G: Nearest water points               | Identify locations of water sources for any suppression needs |
