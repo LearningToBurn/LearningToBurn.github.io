@@ -28,7 +28,10 @@ A certain locations and times of the year, FENZ may require a permit for underta
 <br />
 
 
-## Step 1: Visit [Click here](https://www.checkitsalright.nz/check-fire-season-status) For an example on Geraldine Forest
+## Step 1: Visit [Click here](https://www.checkitsalright.nz/check-fire-season-status) and follow the steps
+
+
+For an example on Geraldine Forest
 <br />
 ---
 <br />
