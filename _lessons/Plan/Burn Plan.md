@@ -52,22 +52,25 @@ Click here to view a: Prescribed burn plan template - `[Click Here!](http://www.
 Complete this form when you’re planning a complex land clearing burn, to ensure all factors have been considered. For complex land clearing burns, this plan must be approved by the Principal Rural Fire Officer or delegate. This plan includes the following sections (**not all sections may be applicable for your burn**):
 
 | **CONTENT**             | **WHAT NEEDS TO BE COMPLETED** |
-| Part A: Plan contents   | This is a checklist for you to ensure you have completed all the information you need.  You will need to append some maps. |
-| Part B: Approvals       | You will need to get sign off from the landowner, person responsible for the burn and the Principal Rural Fire Officer. |
-| Part C: Contact and property details           | Name of the landowner, name and contact details for the person responsible for the burn, and the property legal description. |
-| Part D: Burn details    | Outline your burn objectives (how much you will burn, type of burn, the fuel types, the topography) and location of the burn. |
-| Part E: Surrounding vegetation          | What vegetation types are found on neighbouring lands |
-| Part F: Perimeter control lines | Identify what fuel breaks you have and where. ~ Refer What is a fuel break |
-| Part G: Nearest water points        | Identify locations of water sources for any suppression needs |
-| Part H: Light-up details         | How are you going to light, this includes what tools you will use and light up pattern (include a map). IdentifY the preferred range of weather conditions and time of the day for safe burning. Identifies how you will keep people safe by planning an escape routes for them to travel to a safe zone (include on a map). |
-| Part I: Special conditions | Show that you have identified what needs protecting and how you are going to protect it.  Include a map if necessary. Identify areas that could be impacted by fire or smoke and signs that could be placed on a road. Include this on a map if necessary. Identify who you need to notify that you are burning and their contact details. This will make it easier on the day to remind you who to call. This also prevents FENZ to send out suppression resources when the public see smoke. |
-| Part J: Personnel resources required        | Identify who is going to staff the burn and what roles they will undertake |
-| Part K: Equipment required        | List your ignition and suppression resources that you have onsite |
-| Part L: Reserve resources       | Write down names and the contact details for any onsite or nearby resources that can be called upon if needed. |
-| Appendix A: Communications Plan        |This will help you determine how you will talk with multiple staff when you can’t see them. This also outlines key contact numbers (e.g. neighbours, fire officers and medical centres). |
-| Appendix B: CIMS incident command structure      | Only required for a complex high-country burn, when you require a lot of staff to help. |
-| Appendix C: Fire and weather behaviour pre-burn observations        | Fill this in on the day of the burn before you light up. It can help you determine whether the burn conditions are met. |
-| Appendix D: Fire weather observations during burning        | Take the plan with you to document weather before, during and after the burn. If things go wrong this can help explain the why. |
+| Part A: Plan contents  | This is a checklist for you to ensure you have completed all the information you need.  You will need to append some maps |
+| Part B: Approvals    | You will need to get sign off from the landowner, person responsible for the burn and the Principal Rural Fire Officer |
+| Part C: Contact and property details           | Name of the landowner, name and contact details for the person responsible for the burn, and the property legal description |
+| Part D: Burn details | Outline your burn objectives (how much you will burn, type of burn, the fuel types, the topography) and location of the burn |
+| Part E: Surrounding vegetation             | What vegetation types are found on neighbouring lands |
+| Part F: Perimeter control lines               | Identify what fuel breaks you have and where. *Refer* What is a fuel break |
+| Part G: Nearest water points               | Identify locations of water sources for any suppression needs |
+| Part H: Light-up details             | How are you going to light, this includes what tools you will use and light up pattern (include a map). IdentifY the preferred range of weather conditions and time of the day for safe burning. Identifies how you will keep people safe by planning an escape routes for them to travel to a safe zone (include on a map) |
+| Part I: Special conditions      | Show that you have identified what needs protecting and how you are going to protect it.  Include a map if necessary. Identify areas that could be impacted by fire or smoke and signs that could be placed on a road. Include this on a map if necessary. Identify who you need to notify that you are burning and their contact details. This will make it easier on the day to remind you who to call. This also prevents FENZ to send out suppression resources when the public see smoke |
+| Part J: Personnel resources required    | Identify who is going to staff the burn and what roles they will undertake |
+| Part K: Equipment required   | List your ignition and suppression resources that you have onsite |
+| Part L: Reserve resources   | Write down names and the contact details for any onsite or nearby resources that can be called upon if needed |
+| Appendix A: Communications Plan | This will help you determine how you will talk with multiple staff when you can’t see them. This also outlines key contact numbers (e.g. neighbours, fire officers and medical centres) |
+| Appendix B: CIMS incident command structure | Only required for a complex high-country burn, when you require a lot of staff to help |
+| Appendix C: Fire and weather behaviour pre-burn observations  | Fill this in on the day of the burn before you light up. It can help you determine whether the burn conditions are met |
+| Appendix D: Fire weather observations during burning     | Take the plan with you to document weather before, during and after the burn. If things go wrong this can help explain the why |
+{:class="table_with_header_column"}
+
+
 
 _Self-Check: Think about a burn you have conducted in the past; did you consider the above points? Reflect on how these points may have helped assist you with previous burn experiences._
 
@@ -78,4 +81,3 @@ _Self-Check: Think about a burn you have conducted in the past; did you consider
 Knowing your responsibilities and liabilities before conducting a prescribed burn
 
 
-{:class="table_with_header_column"}
