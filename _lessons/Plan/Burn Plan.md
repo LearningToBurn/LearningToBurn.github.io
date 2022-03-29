@@ -78,6 +78,6 @@ _Self-Check: Think about a burn you have conducted in the past; did you consider
     Complete a Burn Plan for your planned burn. 
 
 ### Learning Outcome
-Knowing your responsibilities and liabilities before conducting a prescribed burn
+Knowing your responsibilities and liabilities before conducting a prescribed burn.
 
 
