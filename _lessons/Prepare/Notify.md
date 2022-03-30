@@ -48,7 +48,7 @@ Contact Fire and Emergency so we know what you are intending, and we can provide
 Fire and Emergency can provide free advice to help you achieve the result you want safely. Receiving advice does not take away your responsibility for the fire but use of our expertise can minimise your risk and the adverse consequences of your burn.
 
 Larger burns may take several months to prepare, so it’s important to get in touch with us early.
-Contact details for your local Fire and Emergency office are available on the [checkitsalright](www.checkitsalright.nz) website.
+Contact details for your local Fire and Emergency office are available on the [checkitsalright](https://www.checkitsalright.nz/) website.
 
 > __Activity__
 >Read the following news article, why where people alarmed about this fire?
