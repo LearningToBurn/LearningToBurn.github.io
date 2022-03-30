@@ -26,7 +26,7 @@ Only attempt to fight the fire if it is safe to do so and you are confident you 
 ### Personnel resources
 
 * When planning your burn ensure that there are sufficient personnel to deal with an initial response to a fire escape
-* Personnel should be trained and competent in using fire suppression tools and techniques and have the correct clothing and PPE (Link to clothing module)
+* Personnel should be trained and competent in using fire suppression tools and techniques and have the correct clothing and PPE ([Link to clothing module] (https://learningtoburn.nz/Prepare/Clothing))
 * There should be sufficient food and water supplies at the site (beyond what is needed for the prescribed burn) to support the fire fighting crew.
 
 ### Equipment resources `add photos?`
