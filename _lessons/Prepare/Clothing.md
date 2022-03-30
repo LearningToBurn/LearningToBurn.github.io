@@ -53,10 +53,11 @@ Provides a barrier that can absorb heat and prevent your skin from burning, and 
 *	covers the body including legs and arms (ankle to wrist). full-body-cover protection, including protection of the interface areas such as between sleeve cuff and gloves, thus providing maximum protection from radiant heat
 *	bright coloured clothing can make you stand out to others when in the field and during smoky conditions
 *	do not tuck clothing in – instead create layers so hot material you come into contact with doesn’t catch in your clothing (e.g. don’t tuck the bottom of trousers into socks, let the trouser leg fall over the outside of your boot)
+
 Options include:
 *	One- or two piece overalls. Note- ensure if purchasing from a Farm supply outlet that these are cotton, not synthetic.
 *	Alternatives to overalls could include a long sleeved cotton shirt or woollen jumper
-*	with cotton pants or light cotton jeans, or woollen trousers or leggings with cotton shorts so legs and arms are fully covered. 
+*	With cotton pants or light cotton jeans, or woollen trousers or leggings with cotton shorts so legs and arms are fully covered. 
 
 **Leather work boots with woollen or cotton socks**
 Boots worn during prescribed burning should have the following basic properties:
@@ -82,14 +83,18 @@ Other optional items can include:
 
 ### Care & maintenance of clothing
 
-* 	Routinely examine your protective clothing for wear and tear. Checking your clothing after each burn, allows time for repairs or replacements before you next head out. Your personal safety may depend on it functioning correctly. Routine examinations should include checks for:
-        *	physical damage such as rips, tears, cuts, damage to seams and/or other connections non-functional or missing
+* 	Routinely examine your protective clothing for wear and tear. Checking your clothing after each burn, allows time for repairs or replacements before you next head out. Your personal safety may depend on it functioning correctly.   
+*       Routine examinations should include checks for:
+        * physical damage such as rips, tears, cuts, damage to seams and/or other connections non-functional or missing
         * thermal damage such as charring, burn holes, melting or change in colour
-* 	No leaked fuel on the clothing
+        * no leaked fuel on the clothing
 
 _Self check_
-* _What clothing do you normally wear when conducting a burn-off?_
-* _Is the clothing suitable for the burn you will be undertaking?_
+
+
+_Qu. What clothing do you normally wear when conducting a burn-off?_
+
+_Qu. Is the clothing suitable for the burn you will be undertaking?_
 
 >__Activity:__  check the condition of your protective clothing and identify any items needing to be replaced or repaired prior to the burn.
 
