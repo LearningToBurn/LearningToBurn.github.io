@@ -44,7 +44,7 @@ Only burn when weather and fuel conditions permit safe containment of fire and m
 | Wind Speed    | Wind helps dry out fuels, it directly affects the speed at which a fire spreads and direction the fire will travel. Wind is the element that catches people out the most when they are using fire. Wind speed is recorded in km/hr. |
 | Rainfall          | Fuels absorb moisture in continuous rain or high humidity. In short periods of heavy rain, water tends to run off and not be absorbed by fuels. Precipitation is measured in mm. |
 
-Technical weather information can be obtained from the ([fireweather.niwa.co.nz](fireweather.niwa.co.nz)) website
+Technical weather information can be obtained from the ([fireweather.niwa.co.nz](https://fireweather.niwa.co.nz/)) website
 
 ### Weather conditions needed for the burn
 
