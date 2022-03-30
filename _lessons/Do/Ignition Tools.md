@@ -89,9 +89,9 @@ Keep a spare burner handy for quick replacement to minimise the delay in maintai
 *	Lack of speed in lighting up. At certain stages of the burn, speed is essential and can be achieves without falling into the errors of the two points above.
 
 
-> __Activity:__ Watch the YouTube video on Maintenance and in the field management for drip torch performance issues:
+> __Activity:__ Watch the YouTube video on use of a drip torch by US fire personnel
 
-`{% raw %} {% include youtube id="uhDvtvQESlACAUTION" width="60" %} {% endraw %}`  -> {% include youtube id="uhDvtvQESlACAUTION" width="60" %}
+`{% raw %} {% include youtube id="1MWCpZdfS0sN" width="60" %} {% endraw %}`  -> {% include youtube id="1MWCpZdfS0s" width="60" %} 
 
 *	Lower leg injuries can occur due to dripping fuels igniting, mostly from a leaking drip torch.
 *	Check your clothing for the ‘telltale signs’ of patches on the lower legs of clothing where the oily drips have stained the material.
