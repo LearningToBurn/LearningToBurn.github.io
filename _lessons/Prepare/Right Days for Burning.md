@@ -100,9 +100,12 @@ Burning is not recommended when:
 `VC to add in 30-30-30 rule`
 
 _Self-check:_ 
- --What are the typical weather patterns at your location during the season you want to burn?_
- --When might be a good time of the day for you to burn to meet your burn objectives and the likely weather conditions?_
 
+_Qu. What are the typical weather patterns at your location during the season you want to burn?_
+
+_Qu. When might be a good time of the day for you to burn to meet your burn objectives and the likely weather conditions?_
+
+ 
 ### Learning outcome: 
 
 Knowing what your typical weather conditions are like in your area and the appropriate times of the day to conduct your burn.
