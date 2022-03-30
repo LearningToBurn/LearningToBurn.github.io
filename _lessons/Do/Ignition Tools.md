@@ -38,7 +38,7 @@ In planning a low intensity prescribed burn, choice of ignition tools will be la
 *	Sometimes when using drip torches with multiple staff, there is a temptation to over-light an area.  Monitor your staff and reinforce the burn plan if things are getting out of control. 
 *	Give the vegetation a chance to catch, promoting low and slow burning.
 
-> __Activity:__ Proper techniques to adjust and utilize a drip torch on a prescribed burn: `{% raw %} {% include youtube id="3iyCFmrjuIE" width="60" %} {% endraw %}`  -> {% include youtube id="3iyCFmrjuIE" width="60" %}
+> __Activity:__ Proper techniques to adjust and utilize a drip torch on a prescribed burn: - `- `{% raw %} {% include youtube id="DWbXQgrYS2M" width="60" %} {% endraw %}`  -> {% include youtube id="DWbXQgrYS2M" width="60" %}  
 
 **Fuel mix**
 *	Hand-held drip torches are usually fuelled by a 3:1 or 4:1 or 5:1 mix of diesel and petrol.
@@ -89,7 +89,7 @@ Keep a spare burner handy for quick replacement to minimise the delay in maintai
 *	Lack of speed in lighting up. At certain stages of the burn, speed is essential and can be achieves without falling into the errors of the two points above.
 
 
-> __Activity:__ Watch the YouTube video on Mmaintenanceaintenance and in the field management for drip torch performance issues:
+> __Activity:__ Watch the YouTube video on Maintenance and in the field management for drip torch performance issues:
 
 `{% raw %} {% include youtube id="uhDvtvQESlACAUTION" width="60" %} {% endraw %}`  -> {% include youtube id="uhDvtvQESlACAUTION" width="60" %}
 
