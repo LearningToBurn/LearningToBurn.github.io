@@ -11,7 +11,7 @@ user_access: anon
 ### Your responsibilities and why you need one
 
 Does a permit clear me from responsibility for a fire if it escapes?  
-The person who lights a fire is always responsible for it whether they have a permit or not.  Failure to obtain a permit or proper authorization is an offence (**is this still the case now with fenz and the forest and rural fires act 1977**) and can result in a conviction.
+The person who lights a fire is always responsible for it whether they have a permit or not.  Failure to obtain a permit or proper authorization is an offence  and can result in a conviction.
 
 
 No matter what the fire season is, you still need to comply with any council bylaws and regional council requirements relating to smoke nuisance and discharges to the air, even if you are issued with a fire permit from Fire and Emergency.
@@ -28,7 +28,7 @@ A certain locations and times of the year, FENZ may require a permit for underta
 <br />
 
 
-## Step 1: Visit [Click here](https://www.checkitsalright.nz/check-fire-season-status) and follow the steps
+## Step 1: Visit [Click here](https://www.firepermit.nz/fenz/Default.aspx) and follow the steps
 
 
 For an example on Geraldine Forest
