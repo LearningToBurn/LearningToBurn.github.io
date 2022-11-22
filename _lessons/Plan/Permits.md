@@ -20,7 +20,7 @@ No matter what the fire season is, you still need to comply with any council byl
 
 ### When do you need a permit?
 A certain locations and times of the year, FENZ may require a permit for undertaking a burn off. You can when you need a permit from here:  
-[Click here](https:/www.checkitsalright.nz/can-i-light-a-fire)
+[Click here](https://www.checkitsalright.nz/can-i-light-a-fire)
 
 
 
